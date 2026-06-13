@@ -1,0 +1,6 @@
+[submodule "archipelago"]
+	path = archipelago
+	url = git@github.com:stubobis1/Archipelago.git
+[submodule "omf"]
+	path = omf
+	url = git@github.com:stubobis1/openomf.git
