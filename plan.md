@@ -192,11 +192,11 @@ OpenOMF (C)
 Full task list: **[ap-world-plan.md](ap-world-plan.md)**
 
 Summary:
-- [ ] Scaffold `worlds/openomf/` — `__init__.py`, `Items.py`, `Locations.py`, `Options.py`, `Rules.py`, `Regions.py`
-- [ ] Parse vanilla TRN files → `data/tournaments.py` (static data used at gen time)
-- [ ] Implement item/location tables, regions, rules, completion condition
-- [ ] Item/location balance: buy locations are the balancing valve — generate enough buy slots to cover any gap, filler for remainder
-- [ ] Write required docs: `en_One Must Fall 2097.md`, `setup_en.md`
+- [x] Scaffold `worlds/openomf/` — `__init__.py`, `Items.py`, `Locations.py`, `Options.py`, `Rules.py`, `Regions.py`
+- [x] Parse vanilla TRN files → `data/tournaments.py` (static data used at gen time)
+- [x] Implement item/location tables, regions, rules, completion condition
+- [x] Item/location balance: buy locations are the balancing valve — generate enough buy slots to cover any gap, filler for remainder
+- [x] Write required docs: `en_One Must Fall 2097.md`, `setup_en.md`
 
 ### Phase 2 — C Client (OpenOMF side)
 Full task list: **[apclientpp-plan.md](apclientpp-plan.md)**

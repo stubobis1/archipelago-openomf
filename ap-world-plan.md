@@ -251,15 +251,15 @@ When ready to submit to the main AP repo:
 
 ## Phase 1 Task List
 
-- [ ] Scaffold `worlds/openomf/` with all required files and stubs
-- [ ] Parse vanilla TRN files → `data/tournaments.py` (static data, not runtime)
-- [ ] Implement `Items.py` with all IDs and classifications
-- [ ] Implement `Locations.py` with all IDs (match + tournament + buy)
-- [ ] Implement `Options.py`
-- [ ] Implement `Regions.py` with tournament progression graph
-- [ ] Implement `Rules.py` with HAR-unlock gates on buy locations
-- [ ] Implement `__init__.py` World class (wire everything together)
-- [ ] Validate item count == location count across all option combinations
-- [ ] Write `docs/en_One Must Fall 2097.md`
-- [ ] Write `docs/setup_en.md`
-- [ ] Generate a test seed and verify location/item tables
+- [x] Scaffold `worlds/openomf/` with all required files and stubs
+- [x] Parse vanilla TRN files → `data/tournaments.py` (static data, not runtime)
+- [x] Implement `Items.py` with all IDs and classifications
+- [x] Implement `Locations.py` with all IDs (match + tournament + buy)
+- [x] Implement `Options.py`
+- [x] Implement `Regions.py` with HAR-unlock gates on buy locations
+- [x] Implement `Rules.py` with completion condition
+- [x] Implement `__init__.py` World class (wire everything together)
+- [x] Validate item count == location count across all option combinations
+- [x] Write `docs/en_One Must Fall 2097.md`
+- [x] Write `docs/setup_en.md`
+- [x] Generate a test seed and verify location/item tables

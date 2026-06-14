@@ -1,0 +1,10 @@
+name: Tester
+game: "One Must Fall: 2097"
+
+"One Must Fall: 2097":
+  goal_tournament: world_championship
+  starting_har: random_selection
+  har_stat_max: 9
+  pilot_stat_max: 25
+  include_buy_locations: true
+  buy_cost_factor: 100
