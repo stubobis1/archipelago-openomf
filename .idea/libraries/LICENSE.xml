@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LICENSE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/omf/src/vendored/zip/LICENSE.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
