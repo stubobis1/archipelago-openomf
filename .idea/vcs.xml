@@ -4,5 +4,10 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/archipelago" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/omf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omf/src/archipelago/submodule/apclientpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omf/src/archipelago/submodule/asio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omf/src/archipelago/submodule/json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omf/src/archipelago/submodule/websocketpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omf/src/archipelago/submodule/wswrap" vcs="Git" />
   </component>
 </project>
