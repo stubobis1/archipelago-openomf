@@ -30,6 +30,8 @@ def main():
     p.add_argument("--har-stat-max", type=int, default=9)
     p.add_argument("--pilot-stat-max", type=int, default=25)
     p.add_argument("--buy-cost-factor", type=int, default=100)
+    p.add_argument("--money-small-value", type=int, default=3000)
+    p.add_argument("--money-large-value", type=int, default=15000)
     p.add_argument("--no-buy", action="store_true")
     args = p.parse_args()
 
@@ -49,6 +51,8 @@ game: "One Must Fall: 2097"
   pilot_stat_max: {args.pilot_stat_max}
   include_buy_locations: {"false" if args.no_buy else "true"}
   buy_cost_factor: {args.buy_cost_factor}
+  money_small_value: {args.money_small_value}
+  money_large_value: {args.money_large_value}
 """)
     print(f"Wrote {yaml_path}")
 

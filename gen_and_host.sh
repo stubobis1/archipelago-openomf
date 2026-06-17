@@ -4,6 +4,33 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 AP_DIR="$SCRIPT_DIR/archipelago"
 
+# Generate SVGs from PlantUML files via kroki.io (vector = crisp at any size)
+for puml in "$SCRIPT_DIR"/*.puml; do
+    [ -f "$puml" ] || continue
+    svg="${puml%.puml}.svg"
+    # Inject layout hints: wrap long strings, force each HAR onto its own row
+    src=$(python3 - "$puml" <<'PYEOF'
+import sys
+hars = ['Jaguar','Shadow','Thorn','Pyros','Electra','Katana','Shredder','Flail','Gargoyle','Chronos','Nova']
+with open(sys.argv[1]) as f:
+    content = f.read()
+content = content.replace('@startuml\n', '@startuml\nskinparam wrapWidth 200\n', 1)
+hidden = '\n'.join(f'"{h} Mechlab" -[hidden]down-> "{hars[i+1]} Mechlab"' for i, h in enumerate(hars[:-1]))
+content = content.replace('@enduml', hidden + '\n@enduml', 1)
+print(content, end='')
+PYEOF
+)
+    http_code=$(curl -s -o "$svg" -w "%{http_code}" \
+        -X POST https://kroki.io/plantuml/svg \
+        -H "Content-Type: application/json" \
+        --data-binary "{\"diagram_source\": $(python3 -c "import json,sys; print(json.dumps(sys.stdin.read()))" <<< "$src")}")
+    if [ "$http_code" = "200" ]; then
+        echo "Generated $(basename "$svg")"
+    else
+        echo "WARNING: kroki.io returned $http_code for $(basename "$puml")" >&2
+    fi
+done
+
 if [ -f "$SCRIPT_DIR/.python-version" ]; then
     PY_VER="$(cat "$SCRIPT_DIR/.python-version")"
     PYENV_PY="$HOME/.pyenv/versions/$PY_VER/bin/python3"

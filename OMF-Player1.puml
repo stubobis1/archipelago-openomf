@@ -20,761 +20,833 @@ class "Menu" #00FF00
 "Menu" --> "Nova Mechlab" : "Menu -> Nova Mechlab"
 "Menu" --> "Pilot Training" : "Menu -> Pilot Training"
 class "North American Open" #00FF00
-"North American Open" : {method} North American Open - Beat Raven: Progressive Pyros Stun Resist
-"North American Open" : {method} North American Open - Beat Crystal: Additional HAR Color
-"North American Open" : {method} North American Open - Beat Ibrahim: Progressive Thorn ARM Speed
-"North American Open" : {method} North American Open - Beat Jack: Progressive Flail Stun Resist
-"North American Open" : {method} North American Open - Beat Dr Lynn Yarr: Progressive Shadow Armor
-"North American Open" : {method} North American Open - Beat Shirro: Progressive Shredder Armor
-"North American Open" : {method} North American Open - Beat Milano: Progressive Pyros LEG Speed
-"North American Open" : {method} North American Open - Beat Jean Paul: Progressive Shredder Armor
-"North American Open" : {method} North American Open - Beat Steffan: Progressive Chronos Stun Resist
+"North American Open" : {method} North American Open - Beat Raven: Progressive Shadow LEG Power
+"North American Open" : {method} North American Open - Beat Crystal: Progressive Electra ARM Speed
+"North American Open" : {method} North American Open - Beat Ibrahim: Progressive Electra Armor
+"North American Open" : {method} North American Open - Beat Jack: Progressive Shadow Stun Resist
+"North American Open" : {method} North American Open - Beat Dr Lynn Yarr: Progressive Endurance
+"North American Open" : {method} North American Open - Beat Shirro: Progressive Katana LEG Speed
+"North American Open" : {method} North American Open - Beat Milano: Progressive Endurance
+"North American Open" : {method} North American Open - Beat Jean Paul: Progressive Chronos ARM Speed
+"North American Open" : {method} North American Open - Beat Steffan: Progressive Shadow LEG Power
 "North American Open" : {method} North American Open - Beat Cossette: Progressive Electra ARM Power
-"North American Open" : {method} Win North American Open (1): Progressive Jaguar ARM Speed
-"North American Open" : {method} Win North American Open (2): Progressive Katana LEG Speed
-"North American Open" : {method} Win North American Open (3): Progressive Nova LEG Speed
+"North American Open" : {method} Win North American Open (1): Progressive Chronos Stun Resist
+"North American Open" : {method} Win North American Open (2): Progressive Power
+"North American Open" : {method} Win North American Open (3): Progressive Pyros Stun Resist
 class "Katushai Challenge" #00FF00
-"Katushai Challenge" : {method} Katushai Challenge - Beat Jaqouline: Progressive Endurance
-"Katushai Challenge" : {method} Katushai Challenge - Beat Prince Vassar: Progressive Pyros Stun Resist
-"Katushai Challenge" : {method} Katushai Challenge - Beat Steel Claw: Progressive Gargoyle ARM Power
-"Katushai Challenge" : {method} Katushai Challenge - Beat Killian: Progressive Shadow LEG Power
-"Katushai Challenge" : {method} Katushai Challenge - Beat Marissa: Progressive Flail Stun Resist
-"Katushai Challenge" : {method} Katushai Challenge - Beat Nathaniel: Progressive Shredder Stun Resist
-"Katushai Challenge" : {method} Katushai Challenge - Beat Ariel: Progressive Shredder Stun Resist
-"Katushai Challenge" : {method} Katushai Challenge - Beat Eva O'Ryan: Progressive Shadow ARM Power
-"Katushai Challenge" : {method} Katushai Challenge - Beat Jacob: Money (Small)
-"Katushai Challenge" : {method} Katushai Challenge - Beat James: Progressive Thorn LEG Power
+"Katushai Challenge" : {method} Katushai Challenge - Beat Jaqouline: Progressive Electra Stun Resist
+"Katushai Challenge" : {method} Katushai Challenge - Beat Prince Vassar: Progressive Pyros Enhancement
+"Katushai Challenge" : {method} Katushai Challenge - Beat Steel Claw: Progressive Jaguar Stun Resist
+"Katushai Challenge" : {method} Katushai Challenge - Beat Killian: Progressive Jaguar ARM Speed
+"Katushai Challenge" : {method} Katushai Challenge - Beat Marissa: Progressive Shredder ARM Power
+"Katushai Challenge" : {method} Katushai Challenge - Beat Nathaniel: Progressive Pyros ARM Speed
+"Katushai Challenge" : {method} Katushai Challenge - Beat Ariel: Progressive Nova Stun Resist
+"Katushai Challenge" : {method} Katushai Challenge - Beat Eva O'Ryan: Progressive Chronos Armor
+"Katushai Challenge" : {method} Katushai Challenge - Beat Jacob: Progressive Power
+"Katushai Challenge" : {method} Katushai Challenge - Beat James: Progressive Shadow LEG Speed
 "Katushai Challenge" : {method} Katushai Challenge - Beat Steffan: Progressive Katana ARM Power
-"Katushai Challenge" : {method} Win Katushai Challenge (1): Progressive Nova Stun Resist
-"Katushai Challenge" : {method} Win Katushai Challenge (2): Progressive Pyros LEG Speed
-"Katushai Challenge" : {method} Win Katushai Challenge (3): Progressive Chronos LEG Power
+"Katushai Challenge" : {method} Win Katushai Challenge (1): Progressive Shredder Armor
+"Katushai Challenge" : {method} Win Katushai Challenge (2): Progressive Nova LEG Speed
+"Katushai Challenge" : {method} Win Katushai Challenge (3): Progressive Flail ARM Speed
 class "WAR Invitational" #00FF00
-"WAR Invitational" : {method} WAR Invitational - Beat Nicoli: Progressive Nova Stun Resist
-"WAR Invitational" : {method} WAR Invitational - Beat Bruce: Progressive Katana Armor
-"WAR Invitational" : {method} WAR Invitational - Beat Selenna: Progressive Electra Armor
-"WAR Invitational" : {method} WAR Invitational - Beat Crystal: Progressive Endurance
-"WAR Invitational" : {method} WAR Invitational - Beat Jahrod: Progressive Nova ARM Power
-"WAR Invitational" : {method} WAR Invitational - Beat Marissa: Progressive Katana ARM Power
+"WAR Invitational" : {method} WAR Invitational - Beat Nicoli: Progressive Shadow ARM Speed
+"WAR Invitational" : {method} WAR Invitational - Beat Bruce: Progressive Flail ARM Power
+"WAR Invitational" : {method} WAR Invitational - Beat Selenna: Progressive Agility
+"WAR Invitational" : {method} WAR Invitational - Beat Crystal: Progressive Flail LEG Power
+"WAR Invitational" : {method} WAR Invitational - Beat Jahrod: Progressive Shredder Stun Resist
+"WAR Invitational" : {method} WAR Invitational - Beat Marissa: **Jaguar Unlock**
 "WAR Invitational" : {method} WAR Invitational - Beat Christian: Progressive Endurance
-"WAR Invitational" : {method} WAR Invitational - Beat Rolland: Progressive Power
-"WAR Invitational" : {method} WAR Invitational - Beat Scarlet: Money (Small)
-"WAR Invitational" : {method} WAR Invitational - Beat Milano: Progressive Jaguar Stun Resist
-"WAR Invitational" : {method} WAR Invitational - Beat Veronica: Progressive Flail ARM Power
-"WAR Invitational" : {method} Win WAR Invitational (1): Progressive Gargoyle Armor
-"WAR Invitational" : {method} Win WAR Invitational (2): Progressive Gargoyle LEG Speed
-"WAR Invitational" : {method} Win WAR Invitational (3): Progressive Power
+"WAR Invitational" : {method} WAR Invitational - Beat Rolland: Progressive Nova Armor
+"WAR Invitational" : {method} WAR Invitational - Beat Scarlet: Progressive Jaguar Armor
+"WAR Invitational" : {method} WAR Invitational - Beat Milano: Progressive Endurance
+"WAR Invitational" : {method} WAR Invitational - Beat Veronica: Progressive Pyros Enhancement
+"WAR Invitational" : {method} Win WAR Invitational (1): Money (Small)
+"WAR Invitational" : {method} Win WAR Invitational (2): Progressive Pyros LEG Power
+"WAR Invitational" : {method} Win WAR Invitational (3): Progressive Shredder LEG Power
 class "World Championship" #00FF00
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Ian Tavares: Progressive Electra Armor
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Jaqouline: Progressive Chronos LEG Power
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Bruce: Progressive Flail Armor
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Prince Vassar: Progressive Katana LEG Power
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Selenna: Progressive Gargoyle ARM Speed
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Jahrod: Progressive Thorn ARM Power
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Raven: Progressive Katana ARM Power
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Steel Claw: **Gargoyle Unlock**
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Jack: Progressive Shredder LEG Speed
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Christian: Progressive Power
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Crystal: Progressive Nova Armor
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Rolland: Progressive Gargoyle LEG Power
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Eva O'Ryan: Progressive Electra Armor
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Killian: Progressive Agility
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Marissa: Progressive Thorn Armor
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Ibrahim: Progressive Chronos Armor
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Scarlet: Progressive Electra ARM Speed
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Milano: Progressive Thorn Armor
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Nathaniel: Progressive Gargoyle LEG Speed
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Veronica: Progressive Pyros ARM Speed
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Ariel: Progressive Thorn ARM Power
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Dr Lynn Yarr: Progressive Jaguar ARM Power
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Shirro: Progressive Shadow LEG Speed
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Jacob: Progressive Electra ARM Speed
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Ian Tavares: Progressive Thorn ARM Power
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Jaqouline: Progressive Jaguar Stun Resist
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Bruce: Progressive Gargoyle Armor
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Prince Vassar: Money (Large)
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Selenna: Progressive Thorn Armor
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Jahrod: Progressive Gargoyle ARM Speed
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Raven: Progressive Nova ARM Power
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Steel Claw: Progressive Nova ARM Speed
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Jack: Progressive Gargoyle LEG Speed
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Christian: Progressive Shredder ARM Power
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Crystal: Progressive Flail ARM Speed
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Rolland: Progressive Shadow Enhancement
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Eva O'Ryan: Progressive Shredder Stun Resist
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Killian: Progressive Thorn LEG Power
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Marissa: Progressive Power
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Ibrahim: Progressive Shredder LEG Power
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Scarlet: Progressive Agility
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Milano: Progressive Nova Stun Resist
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Nathaniel: Progressive Thorn Stun Resist
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Veronica: Money (Large)
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Ariel: Progressive Shredder Stun Resist
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Dr Lynn Yarr: Progressive Katana LEG Power
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Shirro: Progressive Shadow Stun Resist
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Jacob: Progressive Gargoyle ARM Power
 "World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Jean Paul: Progressive Katana Armor
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat James: Progressive Thorn LEG Speed
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Steffan: Progressive Shadow ARM Speed
-"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Cossette: Progressive Jaguar Armor
-"World Championship" : {method} <&lock-unlocked,color=transparent> Win World Championship (1): Progressive Shadow ARM Speed
-"World Championship" : {method} <&lock-unlocked,color=transparent> Win World Championship (2): Progressive Gargoyle Armor
-"World Championship" : {method} <&lock-unlocked,color=transparent> Win World Championship (3): Progressive Gargoyle ARM Power
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat James: Progressive Gargoyle Stun Resist
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Steffan: Progressive Electra ARM Speed
+"World Championship" : {method} <&lock-unlocked,color=transparent> World Championship - Beat Cossette: Progressive Thorn Armor
+"World Championship" : {method} <&lock-unlocked,color=transparent> Win World Championship (1): Progressive Thorn LEG Speed
+"World Championship" : {method} <&lock-unlocked,color=transparent> Win World Championship (2): Progressive Katana LEG Speed
+"World Championship" : {method} <&lock-unlocked,color=transparent> Win World Championship (3): Progressive Katana LEG Speed
 "World Championship" : {method} <&lock-locked> //Victory//: //**Victory**//
 class "Jaguar Mechlab" #00FF00
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 1: Progressive Katana ARM Power
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 2: Progressive Gargoyle Armor
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 3: Progressive Shadow ARM Speed
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 4: Progressive Jaguar LEG Power
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 5: Progressive Power
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 6: Progressive Shredder ARM Power
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 7: Progressive Flail Stun Resist
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 8: Progressive Chronos Armor
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 9: Progressive Thorn Stun Resist
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 1: Progressive Shredder Armor
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 2: Progressive Pyros LEG Power
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 3: Progressive Power
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 4: Progressive Nova Stun Resist
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 5: Progressive Chronos LEG Speed
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 6: Progressive Gargoyle LEG Power
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 7: Progressive Flail LEG Speed
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 8: Money (Small)
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 9: Progressive Thorn LEG Speed
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 1: Progressive Shredder ARM Power
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 2: Progressive Flail ARM Speed
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 3: Progressive Thorn ARM Power
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 4: Progressive Agility
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 5: Money (Large)
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 6: Progressive Pyros ARM Power
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 7: Progressive Nova ARM Speed
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 8: Progressive Gargoyle Stun Resist
-"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 9: **Progressive Tournament Access**
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 1: Progressive Katana LEG Speed
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 2: Progressive Shredder Enhancement
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 3: Progressive Katana ARM Speed
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 4: Additional HAR Color
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 5: Progressive Jaguar LEG Power
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 6: Progressive Gargoyle LEG Speed
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 7: Progressive Gargoyle Armor
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 8: Progressive Gargoyle LEG Speed
-"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 9: Progressive Chronos ARM Power
-"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 1: Progressive Agility
-"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 2: Progressive Flail Armor
-"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 3: Progressive Katana LEG Speed
-"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 4: Progressive Electra Armor
-"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 5: Progressive Shadow LEG Power
-"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 6: Progressive Gargoyle Armor
-"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 7: Progressive Shredder ARM Speed
-"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 8: Money (Large)
-"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 9: Progressive Flail ARM Speed
-"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 1: Progressive Power
-"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 2: Progressive Chronos Stun Resist
-"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 3: Progressive Gargoyle ARM Speed
-"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 4: Progressive Shadow Armor
-"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 5: Progressive Katana Stun Resist
-"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 6: Additional HAR Color
-"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 7: Progressive Flail LEG Power
-"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 8: Progressive Jaguar LEG Power
-"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 9: Progressive Jaguar ARM Speed
+"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 1: Progressive Pyros LEG Speed
+"Jaguar Mechlab" : {method} Buy Jaguar ARM Power Upgrade 2: Progressive Shadow Stun Resist
+"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 1: Progressive Jaguar Armor
+"Jaguar Mechlab" : {method} Buy Jaguar LEG Power Upgrade 2: Progressive Agility
+"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 1: **Pyros Unlock**
+"Jaguar Mechlab" : {method} Buy Jaguar ARM Speed Upgrade 2: Progressive Endurance
+"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 1: Progressive Endurance
+"Jaguar Mechlab" : {method} Buy Jaguar LEG Speed Upgrade 2: Additional HAR Color
+"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 1: Progressive Electra LEG Power
+"Jaguar Mechlab" : {method} Buy Jaguar Armor Upgrade 2: Progressive Power
+"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 1: Progressive Nova LEG Power
+"Jaguar Mechlab" : {method} Buy Jaguar Stun Resist Upgrade 2: Progressive Gargoyle ARM Power
+"Jaguar Mechlab" --> "Jaguar Mechlab Lv3" : "Jaguar Mechlab -> Jaguar Mechlab Lv3"
+"Jaguar Mechlab" --> "Jaguar Mechlab Lv5" : "Jaguar Mechlab -> Jaguar Mechlab Lv5"
+"Jaguar Mechlab" --> "Jaguar Mechlab Lv8" : "Jaguar Mechlab -> Jaguar Mechlab Lv8"
 class "Shadow Mechlab" #00FF00
-"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 1: Progressive Power
-"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 2: Progressive Gargoyle LEG Speed
-"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 3: Progressive Nova Stun Resist
-"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 4: Progressive Flail ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 5: Progressive Shadow ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 6: Progressive Thorn Stun Resist
-"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 7: Progressive Gargoyle ARM Power
-"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 8: Progressive Gargoyle LEG Speed
-"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 9: Progressive Shadow Armor
-"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 1: Progressive Shadow LEG Speed
-"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 2: Progressive Nova ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 3: Progressive Jaguar Stun Resist
-"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 4: Progressive Electra Armor
-"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 5: Additional HAR Color
-"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 6: Progressive Thorn LEG Power
-"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 7: Progressive Chronos LEG Speed
-"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 8: Progressive Pyros ARM Power
-"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 9: Progressive Chronos ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 1: Progressive Thorn ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 2: Progressive Power
-"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 3: Progressive Nova LEG Power
-"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 4: Progressive Gargoyle LEG Power
-"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 5: Progressive Chronos Enhancement
-"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 6: Progressive Katana Armor
-"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 7: Progressive Katana ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 8: Progressive Power
-"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 9: Progressive Electra Armor
-"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 1: Progressive Chronos ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 2: Money (Large)
-"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 3: Progressive Nova LEG Speed
-"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 4: Progressive Katana LEG Speed
-"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 5: Progressive Electra ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 6: Progressive Shadow ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 7: Progressive Jaguar ARM Power
-"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 8: Progressive Nova Armor
-"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 9: Progressive Pyros Enhancement
-"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 1: Progressive Gargoyle ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 2: Progressive Shadow Stun Resist
-"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 3: Progressive Thorn Stun Resist
-"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 4: Progressive Shredder LEG Power
-"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 5: Progressive Shredder LEG Power
-"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 6: Progressive Pyros Armor
-"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 7: Progressive Endurance
-"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 8: Progressive Nova LEG Power
-"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 9: Progressive Agility
-"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 1: Progressive Pyros LEG Speed
-"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 2: Progressive Flail ARM Speed
-"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 3: Progressive Electra Stun Resist
-"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 4: Progressive Electra LEG Speed
-"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 5: Progressive Pyros Armor
-"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 6: Progressive Katana Armor
-"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 7: Progressive Nova Stun Resist
-"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 8: Progressive Electra LEG Power
-"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 9: Progressive Nova Stun Resist
+"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 1: Progressive Jaguar LEG Speed
+"Shadow Mechlab" : {method} Buy Shadow ARM Power Upgrade 2: Progressive Thorn LEG Speed
+"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 1: Progressive Katana ARM Speed
+"Shadow Mechlab" : {method} Buy Shadow LEG Power Upgrade 2: Progressive Shredder ARM Power
+"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 1: Money (Large)
+"Shadow Mechlab" : {method} Buy Shadow ARM Speed Upgrade 2: Progressive Katana LEG Speed
+"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 1: Money (Small)
+"Shadow Mechlab" : {method} Buy Shadow LEG Speed Upgrade 2: Progressive Agility
+"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 1: Progressive Shredder Armor
+"Shadow Mechlab" : {method} Buy Shadow Armor Upgrade 2: Progressive Pyros ARM Power
+"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 1: Progressive Flail ARM Speed
+"Shadow Mechlab" : {method} Buy Shadow Stun Resist Upgrade 2: Progressive Thorn LEG Power
+"Shadow Mechlab" --> "Shadow Mechlab Lv3" : "Shadow Mechlab -> Shadow Mechlab Lv3"
+"Shadow Mechlab" --> "Shadow Mechlab Lv5" : "Shadow Mechlab -> Shadow Mechlab Lv5"
+"Shadow Mechlab" --> "Shadow Mechlab Lv8" : "Shadow Mechlab -> Shadow Mechlab Lv8"
 class "Thorn Mechlab" #00FF00
 "Thorn Mechlab" : {method} Buy Thorn ARM Power Upgrade 1: Progressive Power
-"Thorn Mechlab" : {method} Buy Thorn ARM Power Upgrade 2: Progressive Katana Stun Resist
-"Thorn Mechlab" : {method} Buy Thorn ARM Power Upgrade 3: Progressive Shredder ARM Speed
-"Thorn Mechlab" : {method} Buy Thorn ARM Power Upgrade 4: Progressive Electra ARM Power
-"Thorn Mechlab" : {method} Buy Thorn ARM Power Upgrade 5: Progressive Pyros LEG Speed
-"Thorn Mechlab" : {method} Buy Thorn ARM Power Upgrade 6: Progressive Gargoyle Stun Resist
-"Thorn Mechlab" : {method} Buy Thorn ARM Power Upgrade 7: Progressive Thorn LEG Power
-"Thorn Mechlab" : {method} Buy Thorn ARM Power Upgrade 8: Progressive Katana ARM Power
-"Thorn Mechlab" : {method} Buy Thorn ARM Power Upgrade 9: Progressive Endurance
-"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 1: Progressive Pyros ARM Power
-"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 2: Progressive Shadow LEG Speed
-"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 3: Progressive Katana Armor
-"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 4: Progressive Chronos Stun Resist
-"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 5: Progressive Jaguar Armor
-"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 6: Progressive Shadow LEG Speed
-"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 7: Progressive Gargoyle Armor
-"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 8: Progressive Shadow Stun Resist
-"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 9: Progressive Chronos ARM Power
-"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 1: Progressive Jaguar ARM Speed
-"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 2: Progressive Electra LEG Speed
-"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 3: Progressive Chronos ARM Power
-"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 4: Progressive Electra ARM Speed
-"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 5: Progressive Flail Enhancement
-"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 6: Progressive Katana Armor
-"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 7: Progressive Electra ARM Speed
-"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 8: Progressive Thorn ARM Power
-"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 9: Progressive Katana Stun Resist
-"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 1: Progressive Chronos LEG Power
-"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 2: Progressive Pyros Stun Resist
-"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 3: Progressive Shadow Armor
-"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 4: Progressive Shadow LEG Power
-"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 5: Progressive Power
-"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 6: Progressive Shadow ARM Power
-"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 7: Progressive Shadow Enhancement
-"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 8: Progressive Gargoyle Stun Resist
-"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 9: Progressive Nova Armor
-"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 1: Progressive Flail LEG Power
-"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 2: Progressive Pyros ARM Speed
-"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 3: Progressive Flail Armor
-"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 4: Progressive Thorn LEG Speed
-"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 5: Progressive Katana LEG Speed
-"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 6: Progressive Pyros Stun Resist
-"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 7: **Pyros Unlock**
-"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 8: Progressive Nova Armor
-"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 9: Progressive Endurance
-"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 1: Progressive Flail LEG Speed
-"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 2: Money (Large)
-"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 3: Money (Small)
-"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 4: Money (Small)
-"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 5: Progressive Pyros Armor
-"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 6: Progressive Shadow ARM Power
-"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 7: Progressive Gargoyle LEG Power
-"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 8: Progressive Electra ARM Speed
-"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 9: Progressive Shadow Stun Resist
+"Thorn Mechlab" : {method} Buy Thorn ARM Power Upgrade 2: Progressive Katana LEG Power
+"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 1: Progressive Chronos LEG Speed
+"Thorn Mechlab" : {method} Buy Thorn LEG Power Upgrade 2: Progressive Thorn LEG Speed
+"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 1: Additional HAR Color
+"Thorn Mechlab" : {method} Buy Thorn ARM Speed Upgrade 2: Progressive Flail Enhancement
+"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 1: Progressive Power
+"Thorn Mechlab" : {method} Buy Thorn LEG Speed Upgrade 2: Progressive Jaguar LEG Power
+"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 1: Progressive Shredder LEG Power
+"Thorn Mechlab" : {method} Buy Thorn Armor Upgrade 2: Progressive Jaguar Stun Resist
+"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 1: Progressive Electra LEG Speed
+"Thorn Mechlab" : {method} Buy Thorn Stun Resist Upgrade 2: Progressive Flail LEG Speed
+"Thorn Mechlab" --> "Thorn Mechlab Lv3" : "Thorn Mechlab -> Thorn Mechlab Lv3"
+"Thorn Mechlab" --> "Thorn Mechlab Lv5" : "Thorn Mechlab -> Thorn Mechlab Lv5"
+"Thorn Mechlab" --> "Thorn Mechlab Lv8" : "Thorn Mechlab -> Thorn Mechlab Lv8"
 class "Pyros Mechlab" #00FF00
-"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 1: Additional HAR Color
-"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 2: Money (Large)
-"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 3: Progressive Electra ARM Power
-"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 4: Progressive Katana ARM Power
-"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 5: Money (Large)
-"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 6: Progressive Agility
-"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 7: Progressive Gargoyle Stun Resist
-"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 8: Progressive Thorn Armor
-"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 9: Progressive Pyros LEG Power
-"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 1: Progressive Shadow Armor
-"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 2: Progressive Electra ARM Speed
-"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 3: Progressive Shredder LEG Speed
-"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 4: Progressive Power
-"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 5: Progressive Shadow ARM Power
-"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 6: Progressive Gargoyle Stun Resist
-"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 7: Progressive Thorn ARM Speed
-"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 8: Progressive Pyros ARM Speed
-"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 9: Progressive Katana Stun Resist
-"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 1: Progressive Jaguar LEG Power
-"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 2: Progressive Katana Enhancement
-"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 3: Progressive Electra Stun Resist
-"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 4: Progressive Flail ARM Power
-"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 5: Progressive Endurance
-"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 6: Progressive Jaguar ARM Power
-"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 7: Progressive Gargoyle LEG Power
-"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 8: Progressive Endurance
-"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 9: Progressive Thorn LEG Power
-"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 1: Progressive Thorn LEG Speed
-"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 2: Progressive Thorn ARM Power
-"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 3: Progressive Electra LEG Power
-"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 4: Progressive Endurance
-"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 5: Progressive Shredder LEG Speed
-"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 6: Progressive Shadow LEG Power
-"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 7: Progressive Shredder ARM Speed
-"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 8: Progressive Jaguar Armor
-"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 9: Progressive Flail LEG Speed
-"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 1: Progressive Shredder Enhancement
-"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 2: Progressive Agility
-"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 3: Progressive Thorn LEG Speed
-"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 4: Progressive Pyros ARM Speed
-"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 5: Progressive Electra Stun Resist
-"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 6: Progressive Katana LEG Power
-"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 7: Progressive Shredder ARM Speed
-"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 8: Progressive Chronos Armor
-"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 9: Progressive Shredder ARM Power
-"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 1: Progressive Nova ARM Speed
-"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 2: Progressive Shadow LEG Speed
-"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 3: Progressive Pyros LEG Speed
-"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 4: **Nova Unlock**
-"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 5: Progressive Endurance
-"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 6: Progressive Jaguar ARM Speed
-"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 7: Progressive Gargoyle Enhancement
-"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 8: Progressive Gargoyle ARM Power
-"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 9: Progressive Gargoyle LEG Power
+"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 1: Progressive Electra LEG Power
+"Pyros Mechlab" : {method} Buy Pyros ARM Power Upgrade 2: Progressive Jaguar LEG Power
+"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 1: Progressive Chronos Armor
+"Pyros Mechlab" : {method} Buy Pyros LEG Power Upgrade 2: Progressive Electra LEG Power
+"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 1: Progressive Chronos LEG Power
+"Pyros Mechlab" : {method} Buy Pyros ARM Speed Upgrade 2: Progressive Endurance
+"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 1: Progressive Agility
+"Pyros Mechlab" : {method} Buy Pyros LEG Speed Upgrade 2: Progressive Chronos ARM Power
+"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 1: Progressive Jaguar LEG Power
+"Pyros Mechlab" : {method} Buy Pyros Armor Upgrade 2: Progressive Jaguar ARM Speed
+"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 1: Progressive Chronos ARM Power
+"Pyros Mechlab" : {method} Buy Pyros Stun Resist Upgrade 2: Progressive Electra LEG Speed
+"Pyros Mechlab" --> "Pyros Mechlab Lv3" : "Pyros Mechlab -> Pyros Mechlab Lv3"
+"Pyros Mechlab" --> "Pyros Mechlab Lv5" : "Pyros Mechlab -> Pyros Mechlab Lv5"
+"Pyros Mechlab" --> "Pyros Mechlab Lv8" : "Pyros Mechlab -> Pyros Mechlab Lv8"
 class "Electra Mechlab" #00FF00
-"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 1: Money (Large)
-"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 2: Progressive Agility
-"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 3: Progressive Nova ARM Power
-"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 4: Progressive Nova LEG Speed
-"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 5: Progressive Pyros Stun Resist
-"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 6: Additional HAR Color
-"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 7: Progressive Agility
-"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 8: Progressive Chronos LEG Speed
-"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 9: Progressive Chronos Armor
-"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 1: Progressive Katana Stun Resist
-"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 2: Progressive Chronos LEG Speed
-"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 3: Progressive Jaguar ARM Power
-"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 4: Progressive Jaguar LEG Power
-"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 5: Progressive Katana LEG Speed
-"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 6: Progressive Katana ARM Power
-"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 7: Additional HAR Color
-"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 8: Progressive Katana LEG Power
-"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 9: Progressive Endurance
+"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 1: Progressive Shredder Stun Resist
+"Electra Mechlab" : {method} Buy Electra ARM Power Upgrade 2: Progressive Flail ARM Power
+"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 1: Progressive Shadow ARM Speed
+"Electra Mechlab" : {method} Buy Electra LEG Power Upgrade 2: Progressive Shadow LEG Speed
 "Electra Mechlab" : {method} Buy Electra ARM Speed Upgrade 1: Progressive Nova ARM Speed
-"Electra Mechlab" : {method} Buy Electra ARM Speed Upgrade 2: Progressive Pyros Armor
-"Electra Mechlab" : {method} Buy Electra ARM Speed Upgrade 3: Progressive Electra ARM Power
-"Electra Mechlab" : {method} Buy Electra ARM Speed Upgrade 4: Progressive Nova ARM Power
-"Electra Mechlab" : {method} Buy Electra ARM Speed Upgrade 5: Progressive Shredder LEG Power
-"Electra Mechlab" : {method} Buy Electra ARM Speed Upgrade 6: Progressive Pyros LEG Power
-"Electra Mechlab" : {method} Buy Electra ARM Speed Upgrade 7: Progressive Gargoyle ARM Speed
-"Electra Mechlab" : {method} Buy Electra ARM Speed Upgrade 8: Progressive Chronos Stun Resist
-"Electra Mechlab" : {method} Buy Electra ARM Speed Upgrade 9: Progressive Nova LEG Power
-"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 1: Progressive Nova LEG Power
-"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 2: Progressive Nova ARM Speed
-"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 3: Progressive Electra Stun Resist
-"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 4: Progressive Pyros ARM Power
-"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 5: Progressive Electra ARM Power
-"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 6: **Shredder Unlock**
-"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 7: Progressive Thorn LEG Speed
-"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 8: **Chronos Unlock**
-"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 9: Progressive Jaguar Armor
-"Electra Mechlab" : {method} Buy Electra Armor Upgrade 1: Progressive Shredder Stun Resist
-"Electra Mechlab" : {method} Buy Electra Armor Upgrade 2: Progressive Shadow Stun Resist
-"Electra Mechlab" : {method} Buy Electra Armor Upgrade 3: Progressive Nova LEG Speed
-"Electra Mechlab" : {method} Buy Electra Armor Upgrade 4: Progressive Shredder LEG Speed
-"Electra Mechlab" : {method} Buy Electra Armor Upgrade 5: Progressive Katana ARM Power
-"Electra Mechlab" : {method} Buy Electra Armor Upgrade 6: Progressive Shredder LEG Power
-"Electra Mechlab" : {method} Buy Electra Armor Upgrade 7: Progressive Pyros ARM Speed
-"Electra Mechlab" : {method} Buy Electra Armor Upgrade 8: Progressive Pyros ARM Speed
-"Electra Mechlab" : {method} Buy Electra Armor Upgrade 9: Progressive Agility
-"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 1: Progressive Gargoyle ARM Power
-"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 2: Additional HAR Color
-"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 3: Progressive Thorn Enhancement
-"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 4: Progressive Katana ARM Speed
-"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 5: Progressive Nova Armor
-"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 6: Progressive Gargoyle ARM Power
-"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 7: Progressive Shadow ARM Power
-"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 8: Progressive Pyros ARM Power
-"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 9: Progressive Thorn ARM Speed
+"Electra Mechlab" : {method} Buy Electra ARM Speed Upgrade 2: Progressive Katana ARM Power
+"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 1: Progressive Katana ARM Power
+"Electra Mechlab" : {method} Buy Electra LEG Speed Upgrade 2: Progressive Power
+"Electra Mechlab" : {method} Buy Electra Armor Upgrade 1: Progressive Endurance
+"Electra Mechlab" : {method} Buy Electra Armor Upgrade 2: Progressive Nova ARM Power
+"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 1: Progressive Nova LEG Speed
+"Electra Mechlab" : {method} Buy Electra Stun Resist Upgrade 2: Progressive Flail Armor
+"Electra Mechlab" --> "Electra Mechlab Lv3" : "Electra Mechlab -> Electra Mechlab Lv3"
+"Electra Mechlab" --> "Electra Mechlab Lv5" : "Electra Mechlab -> Electra Mechlab Lv5"
+"Electra Mechlab" --> "Electra Mechlab Lv8" : "Electra Mechlab -> Electra Mechlab Lv8"
 class "Katana Mechlab" #00FF00
-"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 1: Progressive Nova Armor
-"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 2: Progressive Agility
-"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 3: Progressive Jaguar Stun Resist
-"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 4: Progressive Shadow LEG Power
-"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 5: Progressive Nova LEG Speed
-"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 6: Progressive Shadow ARM Power
-"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 7: Progressive Pyros LEG Power
-"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 8: Progressive Pyros LEG Speed
-"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 9: Progressive Chronos Stun Resist
-"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 1: Progressive Agility
-"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 2: Progressive Shredder LEG Speed
-"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 3: Progressive Electra Stun Resist
-"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 4: Progressive Electra ARM Power
-"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 5: Additional HAR Color
-"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 6: Progressive Thorn Stun Resist
-"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 7: Progressive Thorn Armor
-"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 8: Progressive Flail ARM Speed
-"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 9: Progressive Chronos LEG Power
-"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 1: Progressive Shredder ARM Power
-"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 2: **Progressive Tournament Access**
-"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 3: Progressive Pyros LEG Power
-"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 4: Progressive Nova LEG Speed
-"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 5: Progressive Nova Stun Resist
-"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 6: Progressive Flail Stun Resist
-"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 7: Progressive Chronos ARM Power
-"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 8: Progressive Pyros ARM Power
-"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 9: Progressive Electra LEG Power
-"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 1: Progressive Power
-"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 2: Progressive Pyros LEG Power
-"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 3: Progressive Agility
-"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 4: Progressive Chronos ARM Power
-"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 5: Progressive Jaguar LEG Speed
-"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 6: Money (Small)
-"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 7: Progressive Flail LEG Speed
-"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 8: Progressive Electra ARM Power
-"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 9: Progressive Gargoyle ARM Speed
-"Katana Mechlab" : {method} Buy Katana Armor Upgrade 1: **Flail Unlock**
-"Katana Mechlab" : {method} Buy Katana Armor Upgrade 2: Progressive Flail Stun Resist
-"Katana Mechlab" : {method} Buy Katana Armor Upgrade 3: Progressive Thorn ARM Power
-"Katana Mechlab" : {method} Buy Katana Armor Upgrade 4: Progressive Flail Armor
-"Katana Mechlab" : {method} Buy Katana Armor Upgrade 5: Progressive Katana Armor
-"Katana Mechlab" : {method} Buy Katana Armor Upgrade 6: Progressive Gargoyle Enhancement
-"Katana Mechlab" : {method} Buy Katana Armor Upgrade 7: Progressive Electra Stun Resist
-"Katana Mechlab" : {method} Buy Katana Armor Upgrade 8: Progressive Nova LEG Power
-"Katana Mechlab" : {method} Buy Katana Armor Upgrade 9: Progressive Electra Enhancement
-"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 1: **Thorn Unlock**
-"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 2: Progressive Thorn Armor
-"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 3: Progressive Gargoyle LEG Speed
-"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 4: Progressive Chronos LEG Power
-"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 5: Progressive Shredder Stun Resist
-"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 6: Progressive Katana LEG Speed
-"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 7: Progressive Thorn ARM Speed
-"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 8: Progressive Gargoyle Armor
-"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 9: Progressive Nova LEG Speed
+"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 1: Money (Small)
+"Katana Mechlab" : {method} Buy Katana ARM Power Upgrade 2: Progressive Shredder ARM Speed
+"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 1: Progressive Katana LEG Speed
+"Katana Mechlab" : {method} Buy Katana LEG Power Upgrade 2: Progressive Flail LEG Power
+"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 1: Progressive Electra Armor
+"Katana Mechlab" : {method} Buy Katana ARM Speed Upgrade 2: Progressive Shadow Stun Resist
+"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 1: Additional HAR Color
+"Katana Mechlab" : {method} Buy Katana LEG Speed Upgrade 2: Progressive Shadow LEG Power
+"Katana Mechlab" : {method} Buy Katana Armor Upgrade 1: Progressive Shredder LEG Speed
+"Katana Mechlab" : {method} Buy Katana Armor Upgrade 2: Progressive Thorn Enhancement
+"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 1: Progressive Thorn ARM Speed
+"Katana Mechlab" : {method} Buy Katana Stun Resist Upgrade 2: Progressive Pyros ARM Speed
+"Katana Mechlab" --> "Katana Mechlab Lv3" : "Katana Mechlab -> Katana Mechlab Lv3"
+"Katana Mechlab" --> "Katana Mechlab Lv5" : "Katana Mechlab -> Katana Mechlab Lv5"
+"Katana Mechlab" --> "Katana Mechlab Lv8" : "Katana Mechlab -> Katana Mechlab Lv8"
 class "Shredder Mechlab" #00FF00
-"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 1: Progressive Jaguar Enhancement
-"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 2: Progressive Electra LEG Speed
-"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 3: Progressive Shadow LEG Speed
-"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 4: Progressive Endurance
-"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 5: Progressive Nova ARM Speed
-"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 6: Progressive Katana Enhancement
-"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 7: Progressive Katana ARM Speed
-"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 8: Progressive Pyros ARM Speed
-"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 9: Progressive Jaguar LEG Speed
-"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 1: Progressive Electra ARM Power
-"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 2: Progressive Shredder LEG Speed
-"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 3: Progressive Flail Armor
-"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 4: Progressive Flail LEG Power
-"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 5: Progressive Electra LEG Speed
-"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 6: Progressive Chronos Stun Resist
-"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 7: Progressive Electra Stun Resist
-"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 8: Progressive Thorn ARM Power
-"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 9: Progressive Flail LEG Speed
-"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 1: Progressive Gargoyle ARM Power
-"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 2: Progressive Flail Stun Resist
-"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 3: Progressive Shadow Enhancement
-"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 4: Progressive Shadow Armor
-"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 5: Progressive Endurance
-"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 6: Progressive Jaguar ARM Speed
-"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 7: Progressive Gargoyle Stun Resist
-"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 8: Progressive Endurance
-"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 9: Progressive Jaguar Armor
-"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 1: Progressive Jaguar ARM Power
-"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 2: Progressive Nova LEG Speed
-"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 3: Progressive Flail Armor
-"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 4: Progressive Gargoyle ARM Power
-"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 5: Progressive Electra LEG Power
-"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 6: Progressive Agility
-"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 7: Progressive Flail ARM Power
-"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 8: Progressive Endurance
-"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 9: Progressive Thorn Stun Resist
-"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 1: Progressive Flail LEG Power
-"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 2: Progressive Nova LEG Power
-"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 3: Progressive Chronos ARM Speed
-"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 4: Progressive Shredder Armor
-"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 5: Progressive Electra LEG Power
-"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 6: Progressive Gargoyle Stun Resist
-"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 7: Additional HAR Color
-"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 8: Progressive Jaguar Stun Resist
-"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 9: Additional HAR Color
-"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 1: Progressive Thorn Armor
-"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 2: Progressive Shredder LEG Power
-"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 3: Progressive Nova ARM Speed
-"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 4: Progressive Nova ARM Power
-"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 5: Progressive Shredder Stun Resist
-"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 6: Progressive Nova Armor
-"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 7: Progressive Power
-"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 8: Progressive Katana ARM Speed
-"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 9: Progressive Agility
+"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 1: Progressive Agility
+"Shredder Mechlab" : {method} Buy Shredder ARM Power Upgrade 2: Progressive Nova LEG Power
+"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 1: **Progressive Tournament Access**
+"Shredder Mechlab" : {method} Buy Shredder LEG Power Upgrade 2: Progressive Jaguar Stun Resist
+"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 1: Progressive Electra LEG Speed
+"Shredder Mechlab" : {method} Buy Shredder ARM Speed Upgrade 2: Progressive Nova Armor
+"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 1: Progressive Shredder Enhancement
+"Shredder Mechlab" : {method} Buy Shredder LEG Speed Upgrade 2: Progressive Shredder LEG Power
+"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 1: Progressive Power
+"Shredder Mechlab" : {method} Buy Shredder Armor Upgrade 2: Progressive Thorn ARM Power
+"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 1: Progressive Jaguar LEG Power
+"Shredder Mechlab" : {method} Buy Shredder Stun Resist Upgrade 2: Progressive Nova Stun Resist
+"Shredder Mechlab" --> "Shredder Mechlab Lv3" : "Shredder Mechlab -> Shredder Mechlab Lv3"
+"Shredder Mechlab" --> "Shredder Mechlab Lv5" : "Shredder Mechlab -> Shredder Mechlab Lv5"
+"Shredder Mechlab" --> "Shredder Mechlab Lv8" : "Shredder Mechlab -> Shredder Mechlab Lv8"
 class "Flail Mechlab" #00FF00
-"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 1: Progressive Thorn Stun Resist
-"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 2: Progressive Chronos LEG Speed
-"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 3: Progressive Shredder Stun Resist
-"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 4: Progressive Power
-"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 5: Progressive Shadow Stun Resist
-"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 6: Progressive Gargoyle LEG Speed
-"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 7: Progressive Katana LEG Power
-"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 8: Progressive Thorn LEG Speed
-"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 9: Progressive Chronos Armor
-"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 1: Money (Large)
-"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 2: Progressive Jaguar LEG Speed
-"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 3: Progressive Shredder ARM Speed
-"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 4: Progressive Agility
-"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 5: Progressive Nova LEG Power
-"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 6: Progressive Shredder Stun Resist
-"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 7: Progressive Shredder Armor
-"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 8: Progressive Shredder ARM Power
-"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 9: Progressive Thorn LEG Power
-"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 1: Progressive Pyros LEG Power
-"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 2: Progressive Pyros ARM Speed
-"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 3: Progressive Shadow Stun Resist
-"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 4: Progressive Chronos ARM Speed
-"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 5: Progressive Flail ARM Power
-"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 6: Progressive Electra Armor
-"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 7: Progressive Katana ARM Speed
-"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 8: Progressive Katana LEG Power
-"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 9: Progressive Jaguar LEG Speed
-"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 1: Progressive Thorn ARM Speed
-"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 2: Progressive Chronos ARM Power
-"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 3: Progressive Chronos LEG Power
-"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 4: Progressive Endurance
-"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 5: Progressive Shadow ARM Power
-"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 6: Progressive Chronos ARM Power
-"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 7: Progressive Pyros Armor
-"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 8: Progressive Pyros LEG Speed
-"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 9: Progressive Electra ARM Power
-"Flail Mechlab" : {method} Buy Flail Armor Upgrade 1: Progressive Electra LEG Speed
-"Flail Mechlab" : {method} Buy Flail Armor Upgrade 2: Progressive Chronos ARM Speed
-"Flail Mechlab" : {method} Buy Flail Armor Upgrade 3: Progressive Thorn LEG Power
-"Flail Mechlab" : {method} Buy Flail Armor Upgrade 4: Progressive Flail Armor
-"Flail Mechlab" : {method} Buy Flail Armor Upgrade 5: Progressive Agility
-"Flail Mechlab" : {method} Buy Flail Armor Upgrade 6: Progressive Shadow LEG Power
-"Flail Mechlab" : {method} Buy Flail Armor Upgrade 7: Progressive Power
-"Flail Mechlab" : {method} Buy Flail Armor Upgrade 8: Progressive Electra LEG Power
-"Flail Mechlab" : {method} Buy Flail Armor Upgrade 9: Progressive Shadow Armor
-"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 1: Progressive Flail LEG Speed
-"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 2: Progressive Nova Armor
-"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 3: Money (Small)
-"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 4: Progressive Shadow LEG Power
-"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 5: Progressive Shadow Stun Resist
-"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 6: Money (Small)
-"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 7: Progressive Thorn Stun Resist
-"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 8: Money (Large)
-"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 9: Progressive Electra LEG Speed
+"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 1: Progressive Pyros ARM Speed
+"Flail Mechlab" : {method} Buy Flail ARM Power Upgrade 2: Progressive Thorn LEG Power
+"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 1: Money (Small)
+"Flail Mechlab" : {method} Buy Flail LEG Power Upgrade 2: Progressive Nova Stun Resist
+"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 1: Progressive Electra Stun Resist
+"Flail Mechlab" : {method} Buy Flail ARM Speed Upgrade 2: Progressive Shredder Armor
+"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 1: Progressive Katana Armor
+"Flail Mechlab" : {method} Buy Flail LEG Speed Upgrade 2: Progressive Agility
+"Flail Mechlab" : {method} Buy Flail Armor Upgrade 1: Progressive Shadow LEG Speed
+"Flail Mechlab" : {method} Buy Flail Armor Upgrade 2: Progressive Flail Stun Resist
+"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 1: Progressive Flail LEG Power
+"Flail Mechlab" : {method} Buy Flail Stun Resist Upgrade 2: Progressive Agility
+"Flail Mechlab" --> "Flail Mechlab Lv3" : "Flail Mechlab -> Flail Mechlab Lv3"
+"Flail Mechlab" --> "Flail Mechlab Lv5" : "Flail Mechlab -> Flail Mechlab Lv5"
+"Flail Mechlab" --> "Flail Mechlab Lv8" : "Flail Mechlab -> Flail Mechlab Lv8"
 class "Gargoyle Mechlab" #00FF00
 "Gargoyle Mechlab" : {method} Buy Gargoyle ARM Power Upgrade 1: Progressive Flail LEG Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Power Upgrade 2: Progressive Chronos LEG Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Power Upgrade 3: Progressive Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Power Upgrade 4: Money (Small)
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Power Upgrade 5: Progressive Thorn LEG Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Power Upgrade 6: Progressive Agility
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Power Upgrade 7: Progressive Jaguar Stun Resist
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Power Upgrade 8: Progressive Katana ARM Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Power Upgrade 9: Progressive Jaguar ARM Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 1: Progressive Katana Stun Resist
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 2: Progressive Nova ARM Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 3: Progressive Katana LEG Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 4: Progressive Flail ARM Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 5: Progressive Chronos ARM Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 6: Progressive Flail LEG Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 7: Progressive Katana Armor
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 8: Progressive Thorn ARM Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 9: Progressive Shredder ARM Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 1: Progressive Jaguar ARM Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 2: Progressive Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 3: Progressive Shadow LEG Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 4: Progressive Shredder LEG Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 5: Progressive Shredder ARM Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 6: Progressive Pyros Enhancement
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 7: Progressive Shadow LEG Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 8: Progressive Nova Stun Resist
-"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 9: Progressive Jaguar Enhancement
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 1: Progressive Flail LEG Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 2: Progressive Agility
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 3: Progressive Thorn Armor
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 4: Progressive Katana ARM Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 5: Money (Small)
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 6: Progressive Flail Stun Resist
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 7: Progressive Flail Stun Resist
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 8: Progressive Jaguar Armor
-"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 9: Progressive Flail ARM Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 1: Progressive Shredder ARM Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 2: Progressive Shadow LEG Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 3: Progressive Shadow Stun Resist
-"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 4: Progressive Chronos Stun Resist
-"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 5: Money (Large)
-"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 6: Progressive Flail ARM Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 7: Progressive Shredder Armor
-"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 8: Progressive Katana Stun Resist
-"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 9: Progressive Electra LEG Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 1: Progressive Shredder ARM Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 2: Progressive Nova ARM Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 3: Progressive Shadow Armor
-"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 4: Progressive Shredder LEG Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 5: Progressive Jaguar ARM Speed
-"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 6: Progressive Thorn ARM Power
-"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 7: Progressive Electra Enhancement
-"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 8: Progressive Chronos Armor
-"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 9: Progressive Gargoyle ARM Speed
+"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Power Upgrade 2: Progressive Katana LEG Power
+"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 1: Progressive Flail Stun Resist
+"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Power Upgrade 2: Progressive Katana ARM Speed
+"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 1: Progressive Flail Armor
+"Gargoyle Mechlab" : {method} Buy Gargoyle ARM Speed Upgrade 2: Progressive Electra LEG Speed
+"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 1: Progressive Pyros ARM Power
+"Gargoyle Mechlab" : {method} Buy Gargoyle LEG Speed Upgrade 2: Progressive Electra LEG Power
+"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 1: Progressive Gargoyle Enhancement
+"Gargoyle Mechlab" : {method} Buy Gargoyle Armor Upgrade 2: Progressive Jaguar ARM Speed
+"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 1: Progressive Agility
+"Gargoyle Mechlab" : {method} Buy Gargoyle Stun Resist Upgrade 2: Progressive Thorn LEG Power
+"Gargoyle Mechlab" --> "Gargoyle Mechlab Lv3" : "Gargoyle Mechlab -> Gargoyle Mechlab Lv3"
+"Gargoyle Mechlab" --> "Gargoyle Mechlab Lv5" : "Gargoyle Mechlab -> Gargoyle Mechlab Lv5"
+"Gargoyle Mechlab" --> "Gargoyle Mechlab Lv8" : "Gargoyle Mechlab -> Gargoyle Mechlab Lv8"
 class "Chronos Mechlab" #00FF00
-"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 1: Progressive Katana LEG Power
-"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 2: Progressive Jaguar Stun Resist
-"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 3: Money (Large)
-"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 4: Progressive Jaguar LEG Power
-"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 5: Progressive Shadow ARM Speed
-"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 6: Progressive Shadow Armor
-"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 7: Progressive Gargoyle LEG Power
-"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 8: Progressive Chronos ARM Speed
-"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 9: Progressive Agility
-"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 1: Progressive Jaguar LEG Power
-"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 2: Progressive Shadow LEG Speed
-"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 3: Progressive Chronos ARM Speed
-"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 4: Progressive Endurance
-"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 5: Progressive Katana Stun Resist
-"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 6: Progressive Agility
-"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 7: Progressive Shredder LEG Speed
-"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 8: Progressive Nova LEG Power
-"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 9: Progressive Flail Armor
-"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 1: Progressive Shadow Stun Resist
-"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 2: Progressive Flail LEG Power
-"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 3: **Shadow Unlock**
-"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 4: **Progressive Tournament Access**
-"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 5: Progressive Shredder ARM Power
-"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 6: Progressive Electra LEG Power
-"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 7: Progressive Nova ARM Power
-"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 8: Progressive Flail ARM Power
-"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 9: Progressive Electra Armor
-"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 1: Progressive Endurance
-"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 2: Progressive Gargoyle ARM Speed
-"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 3: Progressive Nova ARM Speed
-"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 4: Progressive Gargoyle Stun Resist
-"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 5: Progressive Pyros Stun Resist
-"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 6: Progressive Jaguar Armor
-"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 7: Progressive Electra Stun Resist
-"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 8: Progressive Gargoyle Armor
-"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 9: Progressive Pyros ARM Power
-"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 1: Progressive Gargoyle ARM Power
-"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 2: Money (Large)
-"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 3: Progressive Pyros Armor
-"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 4: Progressive Thorn LEG Power
-"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 5: Progressive Electra Stun Resist
-"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 6: Progressive Jaguar LEG Speed
-"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 7: Progressive Thorn Enhancement
-"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 8: Progressive Flail Armor
-"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 9: Money (Large)
-"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 1: **Katana Unlock**
-"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 2: Progressive Katana ARM Speed
-"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 3: Progressive Flail ARM Power
-"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 4: Progressive Pyros LEG Power
-"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 5: Progressive Flail ARM Power
-"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 6: Progressive Electra ARM Speed
-"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 7: Progressive Jaguar LEG Speed
-"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 8: Progressive Chronos LEG Power
-"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 9: Progressive Pyros LEG Power
+"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 1: Progressive Gargoyle LEG Power
+"Chronos Mechlab" : {method} Buy Chronos ARM Power Upgrade 2: Progressive Thorn Stun Resist
+"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 1: Additional HAR Color
+"Chronos Mechlab" : {method} Buy Chronos LEG Power Upgrade 2: Progressive Flail Stun Resist
+"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 1: Progressive Nova ARM Speed
+"Chronos Mechlab" : {method} Buy Chronos ARM Speed Upgrade 2: Progressive Pyros LEG Power
+"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 1: Progressive Gargoyle LEG Power
+"Chronos Mechlab" : {method} Buy Chronos LEG Speed Upgrade 2: Progressive Pyros Armor
+"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 1: Progressive Chronos LEG Power
+"Chronos Mechlab" : {method} Buy Chronos Armor Upgrade 2: Progressive Chronos LEG Speed
+"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 1: Progressive Pyros Armor
+"Chronos Mechlab" : {method} Buy Chronos Stun Resist Upgrade 2: Progressive Thorn Enhancement
+"Chronos Mechlab" --> "Chronos Mechlab Lv3" : "Chronos Mechlab -> Chronos Mechlab Lv3"
+"Chronos Mechlab" --> "Chronos Mechlab Lv5" : "Chronos Mechlab -> Chronos Mechlab Lv5"
+"Chronos Mechlab" --> "Chronos Mechlab Lv8" : "Chronos Mechlab -> Chronos Mechlab Lv8"
 class "Nova Mechlab" #00FF00
-"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 1: Progressive Chronos Armor
-"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 2: Progressive Jaguar ARM Power
-"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 3: Progressive Jaguar Armor
-"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 4: Progressive Electra Armor
-"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 5: Progressive Chronos LEG Speed
-"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 6: Progressive Katana Enhancement
-"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 7: Progressive Katana LEG Speed
-"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 8: Progressive Shredder LEG Speed
-"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 9: Progressive Flail Stun Resist
-"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 1: Progressive Chronos Stun Resist
-"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 2: Progressive Shredder Stun Resist
-"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 3: Progressive Shadow ARM Power
-"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 4: Progressive Katana Stun Resist
-"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 5: Progressive Agility
-"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 6: Progressive Flail LEG Speed
-"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 7: Progressive Gargoyle LEG Power
-"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 8: Additional HAR Color
-"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 9: Progressive Thorn Armor
-"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 1: Progressive Pyros Armor
-"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 2: Progressive Power
-"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 3: Progressive Katana LEG Power
-"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 4: Progressive Shadow ARM Speed
-"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 5: Progressive Agility
-"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 6: Progressive Thorn LEG Speed
-"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 7: Progressive Gargoyle ARM Speed
-"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 8: Progressive Shredder ARM Speed
-"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 9: Progressive Nova LEG Speed
-"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 1: Progressive Thorn Armor
-"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 2: Progressive Shadow LEG Speed
-"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 3: Progressive Chronos Armor
-"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 4: Progressive Gargoyle Armor
-"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 5: Progressive Pyros Armor
-"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 6: Progressive Chronos LEG Speed
-"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 7: Progressive Shadow ARM Speed
-"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 8: Progressive Electra LEG Speed
-"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 9: Progressive Chronos LEG Power
-"Nova Mechlab" : {method} Buy Nova Armor Upgrade 1: Progressive Jaguar Stun Resist
-"Nova Mechlab" : {method} Buy Nova Armor Upgrade 2: Progressive Jaguar Stun Resist
-"Nova Mechlab" : {method} Buy Nova Armor Upgrade 3: Progressive Thorn Stun Resist
-"Nova Mechlab" : {method} Buy Nova Armor Upgrade 4: Progressive Shredder LEG Power
-"Nova Mechlab" : {method} Buy Nova Armor Upgrade 5: Progressive Power
-"Nova Mechlab" : {method} Buy Nova Armor Upgrade 6: Progressive Nova Stun Resist
-"Nova Mechlab" : {method} Buy Nova Armor Upgrade 7: Progressive Nova LEG Power
-"Nova Mechlab" : {method} Buy Nova Armor Upgrade 8: Progressive Katana Armor
-"Nova Mechlab" : {method} Buy Nova Armor Upgrade 9: Progressive Power
-"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 1: Progressive Pyros ARM Power
-"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 2: Progressive Thorn Stun Resist
-"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 3: Progressive Electra LEG Speed
-"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 4: Progressive Pyros Stun Resist
-"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 5: Progressive Shredder LEG Power
-"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 6: Progressive Flail ARM Power
-"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 7: Progressive Gargoyle LEG Power
-"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 8: Progressive Flail LEG Power
-"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 9: Progressive Endurance
+"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 1: **Progressive Tournament Access**
+"Nova Mechlab" : {method} Buy Nova ARM Power Upgrade 2: Additional HAR Color
+"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 1: Progressive Thorn Stun Resist
+"Nova Mechlab" : {method} Buy Nova LEG Power Upgrade 2: Progressive Chronos LEG Speed
+"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 1: Progressive Endurance
+"Nova Mechlab" : {method} Buy Nova ARM Speed Upgrade 2: Progressive Shredder Armor
+"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 1: Progressive Power
+"Nova Mechlab" : {method} Buy Nova LEG Speed Upgrade 2: Progressive Thorn ARM Speed
+"Nova Mechlab" : {method} Buy Nova Armor Upgrade 1: Progressive Shredder Armor
+"Nova Mechlab" : {method} Buy Nova Armor Upgrade 2: Progressive Katana LEG Power
+"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 1: Progressive Jaguar ARM Speed
+"Nova Mechlab" : {method} Buy Nova Stun Resist Upgrade 2: Progressive Chronos Stun Resist
+"Nova Mechlab" --> "Nova Mechlab Lv3" : "Nova Mechlab -> Nova Mechlab Lv3"
+"Nova Mechlab" --> "Nova Mechlab Lv5" : "Nova Mechlab -> Nova Mechlab Lv5"
+"Nova Mechlab" --> "Nova Mechlab Lv8" : "Nova Mechlab -> Nova Mechlab Lv8"
 class "Pilot Training" #00FF00
-"Pilot Training" : {method} Train Power Level 1: Progressive Jaguar ARM Speed
-"Pilot Training" : {method} Train Power Level 2: Progressive Flail ARM Speed
-"Pilot Training" : {method} Train Power Level 3: Progressive Shredder Armor
-"Pilot Training" : {method} Train Power Level 4: Progressive Jaguar LEG Speed
-"Pilot Training" : {method} Train Power Level 5: Progressive Katana LEG Speed
-"Pilot Training" : {method} Train Power Level 6: Progressive Thorn ARM Speed
-"Pilot Training" : {method} Train Power Level 7: Progressive Gargoyle ARM Speed
-"Pilot Training" : {method} Train Power Level 8: Progressive Endurance
-"Pilot Training" : {method} Train Power Level 9: Additional HAR Color
-"Pilot Training" : {method} Train Power Level 10: Progressive Nova ARM Power
-"Pilot Training" : {method} Train Power Level 11: Progressive Pyros Stun Resist
-"Pilot Training" : {method} Train Power Level 12: Money (Small)
-"Pilot Training" : {method} Train Power Level 13: Progressive Nova ARM Power
-"Pilot Training" : {method} Train Power Level 14: Progressive Flail LEG Speed
-"Pilot Training" : {method} Train Power Level 15: Progressive Thorn LEG Power
-"Pilot Training" : {method} Train Power Level 16: Progressive Electra ARM Speed
-"Pilot Training" : {method} Train Power Level 17: Progressive Gargoyle LEG Speed
-"Pilot Training" : {method} Train Power Level 18: Progressive Power
-"Pilot Training" : {method} Train Power Level 19: Progressive Chronos ARM Speed
-"Pilot Training" : {method} Train Power Level 20: Progressive Thorn ARM Speed
-"Pilot Training" : {method} Train Power Level 21: Progressive Jaguar LEG Power
-"Pilot Training" : {method} Train Power Level 22: Progressive Chronos LEG Power
-"Pilot Training" : {method} Train Power Level 23: Progressive Chronos LEG Speed
-"Pilot Training" : {method} Train Power Level 24: Progressive Endurance
-"Pilot Training" : {method} Train Power Level 25: Progressive Flail Enhancement
-"Pilot Training" : {method} Train Agility Level 1: Progressive Endurance
-"Pilot Training" : {method} Train Agility Level 2: Progressive Thorn ARM Power
-"Pilot Training" : {method} Train Agility Level 3: Progressive Chronos Armor
-"Pilot Training" : {method} Train Agility Level 4: Progressive Jaguar ARM Speed
-"Pilot Training" : {method} Train Agility Level 5: Progressive Flail LEG Power
-"Pilot Training" : {method} Train Agility Level 6: Progressive Electra LEG Speed
-"Pilot Training" : {method} Train Agility Level 7: Additional HAR Color
-"Pilot Training" : {method} Train Agility Level 8: Progressive Pyros ARM Speed
-"Pilot Training" : {method} Train Agility Level 9: Progressive Jaguar ARM Power
-"Pilot Training" : {method} Train Agility Level 10: Progressive Shredder Armor
-"Pilot Training" : {method} Train Agility Level 11: Progressive Jaguar LEG Power
-"Pilot Training" : {method} Train Agility Level 12: Progressive Pyros LEG Speed
-"Pilot Training" : {method} Train Agility Level 13: Progressive Power
-"Pilot Training" : {method} Train Agility Level 14: Progressive Jaguar Armor
-"Pilot Training" : {method} Train Agility Level 15: Progressive Nova Armor
-"Pilot Training" : {method} Train Agility Level 16: Progressive Gargoyle Stun Resist
-"Pilot Training" : {method} Train Agility Level 17: Progressive Katana LEG Power
-"Pilot Training" : {method} Train Agility Level 18: Progressive Agility
-"Pilot Training" : {method} Train Agility Level 19: Progressive Power
-"Pilot Training" : {method} Train Agility Level 20: Progressive Shadow Enhancement
-"Pilot Training" : {method} Train Agility Level 21: Progressive Agility
-"Pilot Training" : {method} Train Agility Level 22: Progressive Chronos ARM Speed
-"Pilot Training" : {method} Train Agility Level 23: Progressive Flail ARM Speed
-"Pilot Training" : {method} Train Agility Level 24: Progressive Endurance
-"Pilot Training" : {method} Train Agility Level 25: Progressive Agility
-"Pilot Training" : {method} Train Endurance Level 1: **Electra Unlock**
-"Pilot Training" : {method} Train Endurance Level 2: Progressive Shredder ARM Power
-"Pilot Training" : {method} Train Endurance Level 3: Progressive Shredder Stun Resist
-"Pilot Training" : {method} Train Endurance Level 4: Progressive Jaguar Stun Resist
-"Pilot Training" : {method} Train Endurance Level 5: Progressive Electra LEG Power
-"Pilot Training" : {method} Train Endurance Level 6: Progressive Chronos ARM Power
-"Pilot Training" : {method} Train Endurance Level 7: Progressive Power
-"Pilot Training" : {method} Train Endurance Level 8: Progressive Shredder ARM Speed
-"Pilot Training" : {method} Train Endurance Level 9: Progressive Pyros ARM Power
-"Pilot Training" : {method} Train Endurance Level 10: Progressive Nova ARM Speed
-"Pilot Training" : {method} Train Endurance Level 11: Progressive Jaguar ARM Speed
-"Pilot Training" : {method} Train Endurance Level 12: Progressive Pyros Stun Resist
-"Pilot Training" : {method} Train Endurance Level 13: Progressive Chronos Stun Resist
-"Pilot Training" : {method} Train Endurance Level 14: Progressive Endurance
-"Pilot Training" : {method} Train Endurance Level 15: Progressive Shredder LEG Power
-"Pilot Training" : {method} Train Endurance Level 16: Progressive Thorn LEG Speed
-"Pilot Training" : {method} Train Endurance Level 17: Progressive Endurance
-"Pilot Training" : {method} Train Endurance Level 18: Progressive Pyros LEG Speed
-"Pilot Training" : {method} Train Endurance Level 19: Progressive Jaguar LEG Speed
-"Pilot Training" : {method} Train Endurance Level 20: Progressive Katana ARM Speed
-"Pilot Training" : {method} Train Endurance Level 21: Progressive Shadow ARM Power
-"Pilot Training" : {method} Train Endurance Level 22: Progressive Shredder Armor
-"Pilot Training" : {method} Train Endurance Level 23: Progressive Jaguar LEG Speed
-"Pilot Training" : {method} Train Endurance Level 24: Progressive Shadow ARM Speed
-"Pilot Training" : {method} Train Endurance Level 25: Progressive Pyros Armor
+"Pilot Training" : {method} Train Power Level 1: Progressive Flail Armor
+"Pilot Training" : {method} Train Power Level 2: Progressive Gargoyle Stun Resist
+"Pilot Training" : {method} Train Power Level 3: Progressive Electra LEG Speed
+"Pilot Training" : {method} Train Power Level 4: Progressive Flail Armor
+"Pilot Training" : {method} Train Power Level 5: Progressive Katana ARM Power
+"Pilot Training" : {method} Train Power Level 6: **Katana Unlock**
+"Pilot Training" : {method} Train Agility Level 1: Progressive Jaguar Stun Resist
+"Pilot Training" : {method} Train Agility Level 2: **Progressive Tournament Access**
+"Pilot Training" : {method} Train Agility Level 3: Progressive Pyros LEG Speed
+"Pilot Training" : {method} Train Agility Level 4: **Nova Unlock**
+"Pilot Training" : {method} Train Agility Level 5: Progressive Agility
+"Pilot Training" : {method} Train Agility Level 6: Progressive Pyros LEG Speed
+"Pilot Training" : {method} Train Endurance Level 1: Progressive Shadow ARM Speed
+"Pilot Training" : {method} Train Endurance Level 2: Additional HAR Color
+"Pilot Training" : {method} Train Endurance Level 3: Progressive Endurance
+"Pilot Training" : {method} Train Endurance Level 4: Progressive Shadow ARM Speed
+"Pilot Training" : {method} Train Endurance Level 5: Money (Large)
+"Pilot Training" : {method} Train Endurance Level 6: Progressive Nova LEG Power
+"Pilot Training" --> "Pilot Training Lv7" : "Pilot Training -> Pilot Training Lv7"
+"Pilot Training" --> "Pilot Training Lv13" : "Pilot Training -> Pilot Training Lv13"
+"Pilot Training" --> "Pilot Training Lv19" : "Pilot Training -> Pilot Training Lv19"
+class "Jaguar Mechlab Lv3" #00FF00
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar ARM Power Upgrade 3: Progressive Nova ARM Power
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar ARM Power Upgrade 4: Progressive Shadow LEG Speed
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar LEG Power Upgrade 3: Progressive Electra ARM Speed
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar LEG Power Upgrade 4: Progressive Katana LEG Power
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar ARM Speed Upgrade 3: Progressive Katana Stun Resist
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar ARM Speed Upgrade 4: Progressive Shredder LEG Speed
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar LEG Speed Upgrade 3: Progressive Power
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar LEG Speed Upgrade 4: Progressive Shadow Armor
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar Armor Upgrade 3: Progressive Shadow ARM Speed
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar Armor Upgrade 4: Progressive Electra ARM Speed
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar Stun Resist Upgrade 3: Progressive Shredder LEG Speed
+"Jaguar Mechlab Lv3" : {method} Buy Jaguar Stun Resist Upgrade 4: Progressive Thorn Armor
+class "Jaguar Mechlab Lv5" #00FF00
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar ARM Power Upgrade 5: Progressive Nova Stun Resist
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar ARM Power Upgrade 6: Progressive Electra ARM Power
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar ARM Power Upgrade 7: Progressive Jaguar LEG Speed
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar LEG Power Upgrade 5: Progressive Electra LEG Power
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar LEG Power Upgrade 6: Progressive Jaguar ARM Speed
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar LEG Power Upgrade 7: Progressive Katana Armor
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar ARM Speed Upgrade 5: Progressive Nova LEG Power
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar ARM Speed Upgrade 6: Progressive Power
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar ARM Speed Upgrade 7: Money (Small)
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar LEG Speed Upgrade 5: Progressive Jaguar LEG Speed
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar LEG Speed Upgrade 6: Progressive Gargoyle Armor
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar LEG Speed Upgrade 7: Progressive Electra ARM Speed
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar Armor Upgrade 5: Money (Large)
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar Armor Upgrade 6: Progressive Nova LEG Power
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar Armor Upgrade 7: Progressive Electra ARM Power
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar Stun Resist Upgrade 5: Progressive Thorn LEG Power
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar Stun Resist Upgrade 6: Money (Large)
+"Jaguar Mechlab Lv5" : {method} Buy Jaguar Stun Resist Upgrade 7: Progressive Pyros LEG Power
+class "Jaguar Mechlab Lv8" #00FF00
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar ARM Power Upgrade 8: Progressive Nova Stun Resist
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar ARM Power Upgrade 9: Progressive Shredder Stun Resist
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar LEG Power Upgrade 8: Progressive Shredder LEG Power
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar LEG Power Upgrade 9: Progressive Chronos ARM Speed
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar ARM Speed Upgrade 8: Progressive Flail LEG Speed
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar ARM Speed Upgrade 9: Progressive Thorn Armor
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar LEG Speed Upgrade 8: Progressive Power
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar LEG Speed Upgrade 9: Progressive Shadow LEG Speed
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar Armor Upgrade 8: **Chronos Unlock**
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar Armor Upgrade 9: Progressive Flail ARM Speed
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar Stun Resist Upgrade 8: Progressive Nova ARM Power
+"Jaguar Mechlab Lv8" : {method} Buy Jaguar Stun Resist Upgrade 9: Progressive Katana Stun Resist
+class "Shadow Mechlab Lv3" #00FF00
+"Shadow Mechlab Lv3" : {method} Buy Shadow ARM Power Upgrade 3: Progressive Nova ARM Speed
+"Shadow Mechlab Lv3" : {method} Buy Shadow ARM Power Upgrade 4: Progressive Endurance
+"Shadow Mechlab Lv3" : {method} Buy Shadow LEG Power Upgrade 3: Additional HAR Color
+"Shadow Mechlab Lv3" : {method} Buy Shadow LEG Power Upgrade 4: Progressive Chronos LEG Power
+"Shadow Mechlab Lv3" : {method} Buy Shadow ARM Speed Upgrade 3: Progressive Shredder ARM Speed
+"Shadow Mechlab Lv3" : {method} Buy Shadow ARM Speed Upgrade 4: Progressive Thorn ARM Speed
+"Shadow Mechlab Lv3" : {method} Buy Shadow LEG Speed Upgrade 3: Progressive Thorn Armor
+"Shadow Mechlab Lv3" : {method} Buy Shadow LEG Speed Upgrade 4: Progressive Electra LEG Power
+"Shadow Mechlab Lv3" : {method} Buy Shadow Armor Upgrade 3: Progressive Shredder ARM Speed
+"Shadow Mechlab Lv3" : {method} Buy Shadow Armor Upgrade 4: Money (Small)
+"Shadow Mechlab Lv3" : {method} Buy Shadow Stun Resist Upgrade 3: Progressive Nova Armor
+"Shadow Mechlab Lv3" : {method} Buy Shadow Stun Resist Upgrade 4: Progressive Shadow ARM Speed
+class "Shadow Mechlab Lv5" #00FF00
+"Shadow Mechlab Lv5" : {method} Buy Shadow ARM Power Upgrade 5: Progressive Thorn ARM Power
+"Shadow Mechlab Lv5" : {method} Buy Shadow ARM Power Upgrade 6: Progressive Nova LEG Speed
+"Shadow Mechlab Lv5" : {method} Buy Shadow ARM Power Upgrade 7: Progressive Gargoyle Armor
+"Shadow Mechlab Lv5" : {method} Buy Shadow LEG Power Upgrade 5: Progressive Nova ARM Speed
+"Shadow Mechlab Lv5" : {method} Buy Shadow LEG Power Upgrade 6: Progressive Flail Armor
+"Shadow Mechlab Lv5" : {method} Buy Shadow LEG Power Upgrade 7: Progressive Katana ARM Power
+"Shadow Mechlab Lv5" : {method} Buy Shadow ARM Speed Upgrade 5: Progressive Shredder LEG Power
+"Shadow Mechlab Lv5" : {method} Buy Shadow ARM Speed Upgrade 6: Progressive Thorn ARM Speed
+"Shadow Mechlab Lv5" : {method} Buy Shadow ARM Speed Upgrade 7: Additional HAR Color
+"Shadow Mechlab Lv5" : {method} Buy Shadow LEG Speed Upgrade 5: Progressive Jaguar ARM Power
+"Shadow Mechlab Lv5" : {method} Buy Shadow LEG Speed Upgrade 6: Progressive Shadow LEG Speed
+"Shadow Mechlab Lv5" : {method} Buy Shadow LEG Speed Upgrade 7: Progressive Thorn LEG Power
+"Shadow Mechlab Lv5" : {method} Buy Shadow Armor Upgrade 5: Progressive Katana Enhancement
+"Shadow Mechlab Lv5" : {method} Buy Shadow Armor Upgrade 6: Progressive Chronos ARM Power
+"Shadow Mechlab Lv5" : {method} Buy Shadow Armor Upgrade 7: Progressive Agility
+"Shadow Mechlab Lv5" : {method} Buy Shadow Stun Resist Upgrade 5: Progressive Chronos LEG Speed
+"Shadow Mechlab Lv5" : {method} Buy Shadow Stun Resist Upgrade 6: Progressive Katana ARM Power
+"Shadow Mechlab Lv5" : {method} Buy Shadow Stun Resist Upgrade 7: Progressive Katana Stun Resist
+class "Shadow Mechlab Lv8" #00FF00
+"Shadow Mechlab Lv8" : {method} Buy Shadow ARM Power Upgrade 8: Progressive Jaguar ARM Power
+"Shadow Mechlab Lv8" : {method} Buy Shadow ARM Power Upgrade 9: Progressive Katana LEG Speed
+"Shadow Mechlab Lv8" : {method} Buy Shadow LEG Power Upgrade 8: Money (Large)
+"Shadow Mechlab Lv8" : {method} Buy Shadow LEG Power Upgrade 9: Progressive Agility
+"Shadow Mechlab Lv8" : {method} Buy Shadow ARM Speed Upgrade 8: Progressive Shredder Armor
+"Shadow Mechlab Lv8" : {method} Buy Shadow ARM Speed Upgrade 9: Progressive Gargoyle LEG Speed
+"Shadow Mechlab Lv8" : {method} Buy Shadow LEG Speed Upgrade 8: Progressive Shadow ARM Power
+"Shadow Mechlab Lv8" : {method} Buy Shadow LEG Speed Upgrade 9: Progressive Electra ARM Speed
+"Shadow Mechlab Lv8" : {method} Buy Shadow Armor Upgrade 8: Progressive Katana Stun Resist
+"Shadow Mechlab Lv8" : {method} Buy Shadow Armor Upgrade 9: **Gargoyle Unlock**
+"Shadow Mechlab Lv8" : {method} Buy Shadow Stun Resist Upgrade 8: Progressive Chronos Armor
+"Shadow Mechlab Lv8" : {method} Buy Shadow Stun Resist Upgrade 9: Progressive Agility
+class "Thorn Mechlab Lv3" #00FF00
+"Thorn Mechlab Lv3" : {method} Buy Thorn ARM Power Upgrade 3: Progressive Katana ARM Speed
+"Thorn Mechlab Lv3" : {method} Buy Thorn ARM Power Upgrade 4: Progressive Shredder Enhancement
+"Thorn Mechlab Lv3" : {method} Buy Thorn LEG Power Upgrade 3: Progressive Pyros ARM Power
+"Thorn Mechlab Lv3" : {method} Buy Thorn LEG Power Upgrade 4: Progressive Agility
+"Thorn Mechlab Lv3" : {method} Buy Thorn ARM Speed Upgrade 3: Progressive Chronos LEG Power
+"Thorn Mechlab Lv3" : {method} Buy Thorn ARM Speed Upgrade 4: Progressive Electra ARM Power
+"Thorn Mechlab Lv3" : {method} Buy Thorn LEG Speed Upgrade 3: Progressive Shredder Armor
+"Thorn Mechlab Lv3" : {method} Buy Thorn LEG Speed Upgrade 4: Progressive Flail LEG Speed
+"Thorn Mechlab Lv3" : {method} Buy Thorn Armor Upgrade 3: Money (Small)
+"Thorn Mechlab Lv3" : {method} Buy Thorn Armor Upgrade 4: Progressive Jaguar Armor
+"Thorn Mechlab Lv3" : {method} Buy Thorn Stun Resist Upgrade 3: Progressive Gargoyle ARM Power
+"Thorn Mechlab Lv3" : {method} Buy Thorn Stun Resist Upgrade 4: Progressive Shadow Armor
+class "Thorn Mechlab Lv5" #00FF00
+"Thorn Mechlab Lv5" : {method} Buy Thorn ARM Power Upgrade 5: Progressive Chronos Stun Resist
+"Thorn Mechlab Lv5" : {method} Buy Thorn ARM Power Upgrade 6: Progressive Nova Armor
+"Thorn Mechlab Lv5" : {method} Buy Thorn ARM Power Upgrade 7: Progressive Electra LEG Speed
+"Thorn Mechlab Lv5" : {method} Buy Thorn LEG Power Upgrade 5: Progressive Electra Enhancement
+"Thorn Mechlab Lv5" : {method} Buy Thorn LEG Power Upgrade 6: Additional HAR Color
+"Thorn Mechlab Lv5" : {method} Buy Thorn LEG Power Upgrade 7: Progressive Shadow LEG Power
+"Thorn Mechlab Lv5" : {method} Buy Thorn ARM Speed Upgrade 5: Progressive Shadow Armor
+"Thorn Mechlab Lv5" : {method} Buy Thorn ARM Speed Upgrade 6: Progressive Shadow ARM Power
+"Thorn Mechlab Lv5" : {method} Buy Thorn ARM Speed Upgrade 7: Progressive Endurance
+"Thorn Mechlab Lv5" : {method} Buy Thorn LEG Speed Upgrade 5: Progressive Power
+"Thorn Mechlab Lv5" : {method} Buy Thorn LEG Speed Upgrade 6: Progressive Jaguar Armor
+"Thorn Mechlab Lv5" : {method} Buy Thorn LEG Speed Upgrade 7: Progressive Gargoyle LEG Speed
+"Thorn Mechlab Lv5" : {method} Buy Thorn Armor Upgrade 5: Progressive Shadow LEG Power
+"Thorn Mechlab Lv5" : {method} Buy Thorn Armor Upgrade 6: Progressive Shredder LEG Speed
+"Thorn Mechlab Lv5" : {method} Buy Thorn Armor Upgrade 7: Progressive Power
+"Thorn Mechlab Lv5" : {method} Buy Thorn Stun Resist Upgrade 5: Progressive Thorn Stun Resist
+"Thorn Mechlab Lv5" : {method} Buy Thorn Stun Resist Upgrade 6: Progressive Katana Stun Resist
+"Thorn Mechlab Lv5" : {method} Buy Thorn Stun Resist Upgrade 7: Progressive Thorn LEG Power
+class "Thorn Mechlab Lv8" #00FF00
+"Thorn Mechlab Lv8" : {method} Buy Thorn ARM Power Upgrade 8: Progressive Flail LEG Power
+"Thorn Mechlab Lv8" : {method} Buy Thorn ARM Power Upgrade 9: Progressive Shredder LEG Speed
+"Thorn Mechlab Lv8" : {method} Buy Thorn LEG Power Upgrade 8: Progressive Shadow Stun Resist
+"Thorn Mechlab Lv8" : {method} Buy Thorn LEG Power Upgrade 9: Progressive Gargoyle ARM Speed
+"Thorn Mechlab Lv8" : {method} Buy Thorn ARM Speed Upgrade 8: Progressive Shadow ARM Speed
+"Thorn Mechlab Lv8" : {method} Buy Thorn ARM Speed Upgrade 9: Progressive Nova ARM Speed
+"Thorn Mechlab Lv8" : {method} Buy Thorn LEG Speed Upgrade 8: Progressive Nova ARM Speed
+"Thorn Mechlab Lv8" : {method} Buy Thorn LEG Speed Upgrade 9: Progressive Electra Armor
+"Thorn Mechlab Lv8" : {method} Buy Thorn Armor Upgrade 8: Progressive Gargoyle LEG Speed
+"Thorn Mechlab Lv8" : {method} Buy Thorn Armor Upgrade 9: Progressive Pyros ARM Speed
+"Thorn Mechlab Lv8" : {method} Buy Thorn Stun Resist Upgrade 8: Progressive Shredder ARM Power
+"Thorn Mechlab Lv8" : {method} Buy Thorn Stun Resist Upgrade 9: Progressive Power
+class "Pyros Mechlab Lv3" #00FF00
+"Pyros Mechlab Lv3" : {method} Buy Pyros ARM Power Upgrade 3: Progressive Nova Armor
+"Pyros Mechlab Lv3" : {method} Buy Pyros ARM Power Upgrade 4: Progressive Pyros ARM Power
+"Pyros Mechlab Lv3" : {method} Buy Pyros LEG Power Upgrade 3: Progressive Shredder LEG Speed
+"Pyros Mechlab Lv3" : {method} Buy Pyros LEG Power Upgrade 4: Progressive Electra Armor
+"Pyros Mechlab Lv3" : {method} Buy Pyros ARM Speed Upgrade 3: Progressive Chronos ARM Speed
+"Pyros Mechlab Lv3" : {method} Buy Pyros ARM Speed Upgrade 4: Progressive Chronos ARM Power
+"Pyros Mechlab Lv3" : {method} Buy Pyros LEG Speed Upgrade 3: Progressive Pyros Stun Resist
+"Pyros Mechlab Lv3" : {method} Buy Pyros LEG Speed Upgrade 4: Progressive Thorn LEG Speed
+"Pyros Mechlab Lv3" : {method} Buy Pyros Armor Upgrade 3: Progressive Katana LEG Power
+"Pyros Mechlab Lv3" : {method} Buy Pyros Armor Upgrade 4: Progressive Katana ARM Speed
+"Pyros Mechlab Lv3" : {method} Buy Pyros Stun Resist Upgrade 3: Progressive Jaguar LEG Speed
+"Pyros Mechlab Lv3" : {method} Buy Pyros Stun Resist Upgrade 4: Progressive Electra Armor
+class "Pyros Mechlab Lv5" #00FF00
+"Pyros Mechlab Lv5" : {method} Buy Pyros ARM Power Upgrade 5: Progressive Pyros Armor
+"Pyros Mechlab Lv5" : {method} Buy Pyros ARM Power Upgrade 6: Progressive Gargoyle ARM Speed
+"Pyros Mechlab Lv5" : {method} Buy Pyros ARM Power Upgrade 7: Progressive Katana Stun Resist
+"Pyros Mechlab Lv5" : {method} Buy Pyros LEG Power Upgrade 5: Progressive Jaguar ARM Power
+"Pyros Mechlab Lv5" : {method} Buy Pyros LEG Power Upgrade 6: Progressive Nova LEG Speed
+"Pyros Mechlab Lv5" : {method} Buy Pyros LEG Power Upgrade 7: Progressive Thorn LEG Speed
+"Pyros Mechlab Lv5" : {method} Buy Pyros ARM Speed Upgrade 5: Progressive Nova ARM Power
+"Pyros Mechlab Lv5" : {method} Buy Pyros ARM Speed Upgrade 6: Progressive Thorn LEG Speed
+"Pyros Mechlab Lv5" : {method} Buy Pyros ARM Speed Upgrade 7: Progressive Katana ARM Speed
+"Pyros Mechlab Lv5" : {method} Buy Pyros LEG Speed Upgrade 5: Progressive Nova LEG Speed
+"Pyros Mechlab Lv5" : {method} Buy Pyros LEG Speed Upgrade 6: Progressive Pyros LEG Speed
+"Pyros Mechlab Lv5" : {method} Buy Pyros LEG Speed Upgrade 7: Progressive Jaguar LEG Power
+"Pyros Mechlab Lv5" : {method} Buy Pyros Armor Upgrade 5: Progressive Pyros LEG Speed
+"Pyros Mechlab Lv5" : {method} Buy Pyros Armor Upgrade 6: Progressive Shadow ARM Speed
+"Pyros Mechlab Lv5" : {method} Buy Pyros Armor Upgrade 7: Progressive Thorn LEG Speed
+"Pyros Mechlab Lv5" : {method} Buy Pyros Stun Resist Upgrade 5: Progressive Power
+"Pyros Mechlab Lv5" : {method} Buy Pyros Stun Resist Upgrade 6: Progressive Endurance
+"Pyros Mechlab Lv5" : {method} Buy Pyros Stun Resist Upgrade 7: Progressive Flail Armor
+class "Pyros Mechlab Lv8" #00FF00
+"Pyros Mechlab Lv8" : {method} Buy Pyros ARM Power Upgrade 8: Progressive Electra LEG Speed
+"Pyros Mechlab Lv8" : {method} Buy Pyros ARM Power Upgrade 9: Progressive Chronos Stun Resist
+"Pyros Mechlab Lv8" : {method} Buy Pyros LEG Power Upgrade 8: Progressive Flail ARM Speed
+"Pyros Mechlab Lv8" : {method} Buy Pyros LEG Power Upgrade 9: Progressive Katana Enhancement
+"Pyros Mechlab Lv8" : {method} Buy Pyros ARM Speed Upgrade 8: Progressive Electra ARM Power
+"Pyros Mechlab Lv8" : {method} Buy Pyros ARM Speed Upgrade 9: Money (Small)
+"Pyros Mechlab Lv8" : {method} Buy Pyros LEG Speed Upgrade 8: Progressive Electra Stun Resist
+"Pyros Mechlab Lv8" : {method} Buy Pyros LEG Speed Upgrade 9: Progressive Pyros ARM Speed
+"Pyros Mechlab Lv8" : {method} Buy Pyros Armor Upgrade 8: Progressive Shadow Armor
+"Pyros Mechlab Lv8" : {method} Buy Pyros Armor Upgrade 9: Progressive Chronos ARM Power
+"Pyros Mechlab Lv8" : {method} Buy Pyros Stun Resist Upgrade 8: Progressive Jaguar Armor
+"Pyros Mechlab Lv8" : {method} Buy Pyros Stun Resist Upgrade 9: Progressive Gargoyle Enhancement
+class "Electra Mechlab Lv3" #00FF00
+"Electra Mechlab Lv3" : {method} Buy Electra ARM Power Upgrade 3: Progressive Katana Stun Resist
+"Electra Mechlab Lv3" : {method} Buy Electra ARM Power Upgrade 4: Progressive Power
+"Electra Mechlab Lv3" : {method} Buy Electra LEG Power Upgrade 3: Progressive Shadow Enhancement
+"Electra Mechlab Lv3" : {method} Buy Electra LEG Power Upgrade 4: Progressive Nova LEG Speed
+"Electra Mechlab Lv3" : {method} Buy Electra ARM Speed Upgrade 3: Progressive Thorn Stun Resist
+"Electra Mechlab Lv3" : {method} Buy Electra ARM Speed Upgrade 4: Progressive Chronos Stun Resist
+"Electra Mechlab Lv3" : {method} Buy Electra LEG Speed Upgrade 3: Progressive Flail LEG Power
+"Electra Mechlab Lv3" : {method} Buy Electra LEG Speed Upgrade 4: Progressive Jaguar Armor
+"Electra Mechlab Lv3" : {method} Buy Electra Armor Upgrade 3: Progressive Chronos Armor
+"Electra Mechlab Lv3" : {method} Buy Electra Armor Upgrade 4: Progressive Jaguar ARM Power
+"Electra Mechlab Lv3" : {method} Buy Electra Stun Resist Upgrade 3: Progressive Chronos Armor
+"Electra Mechlab Lv3" : {method} Buy Electra Stun Resist Upgrade 4: Progressive Endurance
+class "Electra Mechlab Lv5" #00FF00
+"Electra Mechlab Lv5" : {method} Buy Electra ARM Power Upgrade 5: Progressive Endurance
+"Electra Mechlab Lv5" : {method} Buy Electra ARM Power Upgrade 6: Progressive Gargoyle Stun Resist
+"Electra Mechlab Lv5" : {method} Buy Electra ARM Power Upgrade 7: Progressive Agility
+"Electra Mechlab Lv5" : {method} Buy Electra LEG Power Upgrade 5: Progressive Chronos Armor
+"Electra Mechlab Lv5" : {method} Buy Electra LEG Power Upgrade 6: Progressive Flail LEG Power
+"Electra Mechlab Lv5" : {method} Buy Electra LEG Power Upgrade 7: Progressive Endurance
+"Electra Mechlab Lv5" : {method} Buy Electra ARM Speed Upgrade 5: Progressive Chronos Stun Resist
+"Electra Mechlab Lv5" : {method} Buy Electra ARM Speed Upgrade 6: Progressive Gargoyle Stun Resist
+"Electra Mechlab Lv5" : {method} Buy Electra ARM Speed Upgrade 7: Progressive Nova LEG Power
+"Electra Mechlab Lv5" : {method} Buy Electra LEG Speed Upgrade 5: Progressive Endurance
+"Electra Mechlab Lv5" : {method} Buy Electra LEG Speed Upgrade 6: Progressive Flail ARM Speed
+"Electra Mechlab Lv5" : {method} Buy Electra LEG Speed Upgrade 7: Progressive Chronos Stun Resist
+"Electra Mechlab Lv5" : {method} Buy Electra Armor Upgrade 5: Progressive Pyros ARM Speed
+"Electra Mechlab Lv5" : {method} Buy Electra Armor Upgrade 6: Progressive Chronos Enhancement
+"Electra Mechlab Lv5" : {method} Buy Electra Armor Upgrade 7: Progressive Nova Stun Resist
+"Electra Mechlab Lv5" : {method} Buy Electra Stun Resist Upgrade 5: Progressive Gargoyle LEG Speed
+"Electra Mechlab Lv5" : {method} Buy Electra Stun Resist Upgrade 6: Progressive Shredder ARM Power
+"Electra Mechlab Lv5" : {method} Buy Electra Stun Resist Upgrade 7: Progressive Pyros LEG Power
+class "Electra Mechlab Lv8" #00FF00
+"Electra Mechlab Lv8" : {method} Buy Electra ARM Power Upgrade 8: Progressive Thorn Armor
+"Electra Mechlab Lv8" : {method} Buy Electra ARM Power Upgrade 9: Progressive Thorn Armor
+"Electra Mechlab Lv8" : {method} Buy Electra LEG Power Upgrade 8: Progressive Flail LEG Speed
+"Electra Mechlab Lv8" : {method} Buy Electra LEG Power Upgrade 9: Progressive Shadow Stun Resist
+"Electra Mechlab Lv8" : {method} Buy Electra ARM Speed Upgrade 8: Progressive Jaguar ARM Power
+"Electra Mechlab Lv8" : {method} Buy Electra ARM Speed Upgrade 9: Progressive Electra Stun Resist
+"Electra Mechlab Lv8" : {method} Buy Electra LEG Speed Upgrade 8: Progressive Gargoyle LEG Speed
+"Electra Mechlab Lv8" : {method} Buy Electra LEG Speed Upgrade 9: Progressive Endurance
+"Electra Mechlab Lv8" : {method} Buy Electra Armor Upgrade 8: Progressive Jaguar ARM Speed
+"Electra Mechlab Lv8" : {method} Buy Electra Armor Upgrade 9: Progressive Katana ARM Power
+"Electra Mechlab Lv8" : {method} Buy Electra Stun Resist Upgrade 8: Progressive Pyros Stun Resist
+"Electra Mechlab Lv8" : {method} Buy Electra Stun Resist Upgrade 9: Progressive Shredder LEG Speed
+class "Katana Mechlab Lv3" #00FF00
+"Katana Mechlab Lv3" : {method} Buy Katana ARM Power Upgrade 3: Progressive Katana LEG Power
+"Katana Mechlab Lv3" : {method} Buy Katana ARM Power Upgrade 4: Money (Large)
+"Katana Mechlab Lv3" : {method} Buy Katana LEG Power Upgrade 3: Progressive Thorn LEG Power
+"Katana Mechlab Lv3" : {method} Buy Katana LEG Power Upgrade 4: Progressive Endurance
+"Katana Mechlab Lv3" : {method} Buy Katana ARM Speed Upgrade 3: Progressive Pyros ARM Power
+"Katana Mechlab Lv3" : {method} Buy Katana ARM Speed Upgrade 4: Progressive Jaguar Armor
+"Katana Mechlab Lv3" : {method} Buy Katana LEG Speed Upgrade 3: Progressive Katana ARM Speed
+"Katana Mechlab Lv3" : {method} Buy Katana LEG Speed Upgrade 4: Progressive Pyros Armor
+"Katana Mechlab Lv3" : {method} Buy Katana Armor Upgrade 3: Progressive Pyros LEG Speed
+"Katana Mechlab Lv3" : {method} Buy Katana Armor Upgrade 4: Progressive Jaguar ARM Power
+"Katana Mechlab Lv3" : {method} Buy Katana Stun Resist Upgrade 3: Progressive Katana LEG Speed
+"Katana Mechlab Lv3" : {method} Buy Katana Stun Resist Upgrade 4: Progressive Chronos Stun Resist
+class "Katana Mechlab Lv5" #00FF00
+"Katana Mechlab Lv5" : {method} Buy Katana ARM Power Upgrade 5: Progressive Katana Enhancement
+"Katana Mechlab Lv5" : {method} Buy Katana ARM Power Upgrade 6: Progressive Shadow Stun Resist
+"Katana Mechlab Lv5" : {method} Buy Katana ARM Power Upgrade 7: Progressive Jaguar ARM Speed
+"Katana Mechlab Lv5" : {method} Buy Katana LEG Power Upgrade 5: Progressive Pyros ARM Power
+"Katana Mechlab Lv5" : {method} Buy Katana LEG Power Upgrade 6: Progressive Gargoyle LEG Speed
+"Katana Mechlab Lv5" : {method} Buy Katana LEG Power Upgrade 7: Progressive Katana ARM Speed
+"Katana Mechlab Lv5" : {method} Buy Katana ARM Speed Upgrade 5: Progressive Power
+"Katana Mechlab Lv5" : {method} Buy Katana ARM Speed Upgrade 6: Progressive Agility
+"Katana Mechlab Lv5" : {method} Buy Katana ARM Speed Upgrade 7: Progressive Jaguar LEG Power
+"Katana Mechlab Lv5" : {method} Buy Katana LEG Speed Upgrade 5: Progressive Power
+"Katana Mechlab Lv5" : {method} Buy Katana LEG Speed Upgrade 6: Progressive Shadow ARM Power
+"Katana Mechlab Lv5" : {method} Buy Katana LEG Speed Upgrade 7: Progressive Thorn ARM Power
+"Katana Mechlab Lv5" : {method} Buy Katana Armor Upgrade 5: Progressive Electra Armor
+"Katana Mechlab Lv5" : {method} Buy Katana Armor Upgrade 6: Progressive Jaguar LEG Speed
+"Katana Mechlab Lv5" : {method} Buy Katana Armor Upgrade 7: Progressive Gargoyle LEG Power
+"Katana Mechlab Lv5" : {method} Buy Katana Stun Resist Upgrade 5: Progressive Pyros Stun Resist
+"Katana Mechlab Lv5" : {method} Buy Katana Stun Resist Upgrade 6: Progressive Electra ARM Speed
+"Katana Mechlab Lv5" : {method} Buy Katana Stun Resist Upgrade 7: Progressive Katana LEG Speed
+class "Katana Mechlab Lv8" #00FF00
+"Katana Mechlab Lv8" : {method} Buy Katana ARM Power Upgrade 8: Progressive Thorn Armor
+"Katana Mechlab Lv8" : {method} Buy Katana ARM Power Upgrade 9: Progressive Gargoyle ARM Power
+"Katana Mechlab Lv8" : {method} Buy Katana LEG Power Upgrade 8: Progressive Gargoyle ARM Speed
+"Katana Mechlab Lv8" : {method} Buy Katana LEG Power Upgrade 9: Progressive Thorn ARM Speed
+"Katana Mechlab Lv8" : {method} Buy Katana ARM Speed Upgrade 8: Progressive Chronos LEG Speed
+"Katana Mechlab Lv8" : {method} Buy Katana ARM Speed Upgrade 9: Progressive Electra LEG Power
+"Katana Mechlab Lv8" : {method} Buy Katana LEG Speed Upgrade 8: Progressive Chronos ARM Power
+"Katana Mechlab Lv8" : {method} Buy Katana LEG Speed Upgrade 9: Progressive Shredder LEG Power
+"Katana Mechlab Lv8" : {method} Buy Katana Armor Upgrade 8: Progressive Thorn Stun Resist
+"Katana Mechlab Lv8" : {method} Buy Katana Armor Upgrade 9: Progressive Nova ARM Power
+"Katana Mechlab Lv8" : {method} Buy Katana Stun Resist Upgrade 8: Progressive Shadow ARM Power
+"Katana Mechlab Lv8" : {method} Buy Katana Stun Resist Upgrade 9: Progressive Flail Stun Resist
+class "Shredder Mechlab Lv3" #00FF00
+"Shredder Mechlab Lv3" : {method} Buy Shredder ARM Power Upgrade 3: Progressive Thorn ARM Speed
+"Shredder Mechlab Lv3" : {method} Buy Shredder ARM Power Upgrade 4: Progressive Electra Enhancement
+"Shredder Mechlab Lv3" : {method} Buy Shredder LEG Power Upgrade 3: Progressive Pyros Stun Resist
+"Shredder Mechlab Lv3" : {method} Buy Shredder LEG Power Upgrade 4: Progressive Katana Armor
+"Shredder Mechlab Lv3" : {method} Buy Shredder ARM Speed Upgrade 3: Progressive Jaguar ARM Power
+"Shredder Mechlab Lv3" : {method} Buy Shredder ARM Speed Upgrade 4: Progressive Nova Armor
+"Shredder Mechlab Lv3" : {method} Buy Shredder LEG Speed Upgrade 3: Progressive Agility
+"Shredder Mechlab Lv3" : {method} Buy Shredder LEG Speed Upgrade 4: Progressive Electra LEG Speed
+"Shredder Mechlab Lv3" : {method} Buy Shredder Armor Upgrade 3: Progressive Jaguar Stun Resist
+"Shredder Mechlab Lv3" : {method} Buy Shredder Armor Upgrade 4: Progressive Nova Armor
+"Shredder Mechlab Lv3" : {method} Buy Shredder Stun Resist Upgrade 3: Progressive Power
+"Shredder Mechlab Lv3" : {method} Buy Shredder Stun Resist Upgrade 4: Progressive Katana ARM Power
+class "Shredder Mechlab Lv5" #00FF00
+"Shredder Mechlab Lv5" : {method} Buy Shredder ARM Power Upgrade 5: Progressive Gargoyle ARM Power
+"Shredder Mechlab Lv5" : {method} Buy Shredder ARM Power Upgrade 6: Progressive Chronos Armor
+"Shredder Mechlab Lv5" : {method} Buy Shredder ARM Power Upgrade 7: Progressive Katana ARM Power
+"Shredder Mechlab Lv5" : {method} Buy Shredder LEG Power Upgrade 5: Progressive Gargoyle ARM Speed
+"Shredder Mechlab Lv5" : {method} Buy Shredder LEG Power Upgrade 6: Progressive Shredder LEG Speed
+"Shredder Mechlab Lv5" : {method} Buy Shredder LEG Power Upgrade 7: Money (Small)
+"Shredder Mechlab Lv5" : {method} Buy Shredder ARM Speed Upgrade 5: Progressive Shredder Stun Resist
+"Shredder Mechlab Lv5" : {method} Buy Shredder ARM Speed Upgrade 6: Progressive Shadow LEG Speed
+"Shredder Mechlab Lv5" : {method} Buy Shredder ARM Speed Upgrade 7: Progressive Electra ARM Speed
+"Shredder Mechlab Lv5" : {method} Buy Shredder LEG Speed Upgrade 5: Progressive Shadow ARM Power
+"Shredder Mechlab Lv5" : {method} Buy Shredder LEG Speed Upgrade 6: Progressive Electra LEG Speed
+"Shredder Mechlab Lv5" : {method} Buy Shredder LEG Speed Upgrade 7: Progressive Nova LEG Speed
+"Shredder Mechlab Lv5" : {method} Buy Shredder Armor Upgrade 5: Progressive Pyros ARM Power
+"Shredder Mechlab Lv5" : {method} Buy Shredder Armor Upgrade 6: Progressive Katana ARM Speed
+"Shredder Mechlab Lv5" : {method} Buy Shredder Armor Upgrade 7: Progressive Pyros ARM Speed
+"Shredder Mechlab Lv5" : {method} Buy Shredder Stun Resist Upgrade 5: Progressive Power
+"Shredder Mechlab Lv5" : {method} Buy Shredder Stun Resist Upgrade 6: Progressive Electra ARM Power
+"Shredder Mechlab Lv5" : {method} Buy Shredder Stun Resist Upgrade 7: Progressive Gargoyle ARM Speed
+class "Shredder Mechlab Lv8" #00FF00
+"Shredder Mechlab Lv8" : {method} Buy Shredder ARM Power Upgrade 8: Progressive Gargoyle ARM Power
+"Shredder Mechlab Lv8" : {method} Buy Shredder ARM Power Upgrade 9: Progressive Electra ARM Power
+"Shredder Mechlab Lv8" : {method} Buy Shredder LEG Power Upgrade 8: Progressive Shadow Enhancement
+"Shredder Mechlab Lv8" : {method} Buy Shredder LEG Power Upgrade 9: Progressive Chronos LEG Power
+"Shredder Mechlab Lv8" : {method} Buy Shredder ARM Speed Upgrade 8: Progressive Electra Armor
+"Shredder Mechlab Lv8" : {method} Buy Shredder ARM Speed Upgrade 9: Progressive Thorn ARM Power
+"Shredder Mechlab Lv8" : {method} Buy Shredder LEG Speed Upgrade 8: Progressive Electra ARM Speed
+"Shredder Mechlab Lv8" : {method} Buy Shredder LEG Speed Upgrade 9: Progressive Katana ARM Speed
+"Shredder Mechlab Lv8" : {method} Buy Shredder Armor Upgrade 8: Progressive Chronos Stun Resist
+"Shredder Mechlab Lv8" : {method} Buy Shredder Armor Upgrade 9: Progressive Thorn ARM Speed
+"Shredder Mechlab Lv8" : {method} Buy Shredder Stun Resist Upgrade 8: Progressive Flail ARM Speed
+"Shredder Mechlab Lv8" : {method} Buy Shredder Stun Resist Upgrade 9: Progressive Power
+class "Flail Mechlab Lv3" #00FF00
+"Flail Mechlab Lv3" : {method} Buy Flail ARM Power Upgrade 3: Progressive Gargoyle ARM Power
+"Flail Mechlab Lv3" : {method} Buy Flail ARM Power Upgrade 4: Progressive Flail Stun Resist
+"Flail Mechlab Lv3" : {method} Buy Flail LEG Power Upgrade 3: Money (Large)
+"Flail Mechlab Lv3" : {method} Buy Flail LEG Power Upgrade 4: Progressive Pyros LEG Speed
+"Flail Mechlab Lv3" : {method} Buy Flail ARM Speed Upgrade 3: Progressive Flail LEG Speed
+"Flail Mechlab Lv3" : {method} Buy Flail ARM Speed Upgrade 4: Progressive Shadow Armor
+"Flail Mechlab Lv3" : {method} Buy Flail LEG Speed Upgrade 3: Progressive Nova LEG Speed
+"Flail Mechlab Lv3" : {method} Buy Flail LEG Speed Upgrade 4: Progressive Flail LEG Power
+"Flail Mechlab Lv3" : {method} Buy Flail Armor Upgrade 3: Money (Large)
+"Flail Mechlab Lv3" : {method} Buy Flail Armor Upgrade 4: Progressive Thorn LEG Speed
+"Flail Mechlab Lv3" : {method} Buy Flail Stun Resist Upgrade 3: Progressive Thorn ARM Speed
+"Flail Mechlab Lv3" : {method} Buy Flail Stun Resist Upgrade 4: Progressive Flail LEG Speed
+class "Flail Mechlab Lv5" #00FF00
+"Flail Mechlab Lv5" : {method} Buy Flail ARM Power Upgrade 5: Progressive Agility
+"Flail Mechlab Lv5" : {method} Buy Flail ARM Power Upgrade 6: Progressive Shadow LEG Speed
+"Flail Mechlab Lv5" : {method} Buy Flail ARM Power Upgrade 7: Progressive Shredder ARM Speed
+"Flail Mechlab Lv5" : {method} Buy Flail LEG Power Upgrade 5: Progressive Gargoyle Stun Resist
+"Flail Mechlab Lv5" : {method} Buy Flail LEG Power Upgrade 6: Progressive Endurance
+"Flail Mechlab Lv5" : {method} Buy Flail LEG Power Upgrade 7: Progressive Pyros ARM Power
+"Flail Mechlab Lv5" : {method} Buy Flail ARM Speed Upgrade 5: Money (Large)
+"Flail Mechlab Lv5" : {method} Buy Flail ARM Speed Upgrade 6: Progressive Flail LEG Speed
+"Flail Mechlab Lv5" : {method} Buy Flail ARM Speed Upgrade 7: Progressive Shredder Armor
+"Flail Mechlab Lv5" : {method} Buy Flail LEG Speed Upgrade 5: Progressive Jaguar ARM Power
+"Flail Mechlab Lv5" : {method} Buy Flail LEG Speed Upgrade 6: Progressive Flail ARM Power
+"Flail Mechlab Lv5" : {method} Buy Flail LEG Speed Upgrade 7: Money (Small)
+"Flail Mechlab Lv5" : {method} Buy Flail Armor Upgrade 5: Progressive Pyros Armor
+"Flail Mechlab Lv5" : {method} Buy Flail Armor Upgrade 6: Progressive Flail Stun Resist
+"Flail Mechlab Lv5" : {method} Buy Flail Armor Upgrade 7: Progressive Pyros LEG Power
+"Flail Mechlab Lv5" : {method} Buy Flail Stun Resist Upgrade 5: Progressive Jaguar LEG Speed
+"Flail Mechlab Lv5" : {method} Buy Flail Stun Resist Upgrade 6: Progressive Thorn Stun Resist
+"Flail Mechlab Lv5" : {method} Buy Flail Stun Resist Upgrade 7: Progressive Shredder Stun Resist
+class "Flail Mechlab Lv8" #00FF00
+"Flail Mechlab Lv8" : {method} Buy Flail ARM Power Upgrade 8: Progressive Shredder ARM Power
+"Flail Mechlab Lv8" : {method} Buy Flail ARM Power Upgrade 9: Progressive Electra Stun Resist
+"Flail Mechlab Lv8" : {method} Buy Flail LEG Power Upgrade 8: Progressive Katana LEG Speed
+"Flail Mechlab Lv8" : {method} Buy Flail LEG Power Upgrade 9: Progressive Jaguar LEG Speed
+"Flail Mechlab Lv8" : {method} Buy Flail ARM Speed Upgrade 8: Progressive Electra Stun Resist
+"Flail Mechlab Lv8" : {method} Buy Flail ARM Speed Upgrade 9: Progressive Katana Armor
+"Flail Mechlab Lv8" : {method} Buy Flail LEG Speed Upgrade 8: Progressive Flail Armor
+"Flail Mechlab Lv8" : {method} Buy Flail LEG Speed Upgrade 9: Progressive Chronos LEG Speed
+"Flail Mechlab Lv8" : {method} Buy Flail Armor Upgrade 8: Progressive Agility
+"Flail Mechlab Lv8" : {method} Buy Flail Armor Upgrade 9: Progressive Agility
+"Flail Mechlab Lv8" : {method} Buy Flail Stun Resist Upgrade 8: Progressive Flail ARM Power
+"Flail Mechlab Lv8" : {method} Buy Flail Stun Resist Upgrade 9: Progressive Chronos LEG Power
+class "Gargoyle Mechlab Lv3" #00FF00
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle ARM Power Upgrade 3: Progressive Gargoyle Stun Resist
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle ARM Power Upgrade 4: Progressive Nova ARM Power
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle LEG Power Upgrade 3: Progressive Shredder ARM Power
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle LEG Power Upgrade 4: Progressive Shredder ARM Speed
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle ARM Speed Upgrade 3: Progressive Gargoyle ARM Power
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle ARM Speed Upgrade 4: Progressive Thorn ARM Power
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle LEG Speed Upgrade 3: Progressive Chronos ARM Speed
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle LEG Speed Upgrade 4: Money (Small)
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle Armor Upgrade 3: Progressive Flail ARM Power
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle Armor Upgrade 4: Progressive Chronos ARM Speed
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle Stun Resist Upgrade 3: Progressive Endurance
+"Gargoyle Mechlab Lv3" : {method} Buy Gargoyle Stun Resist Upgrade 4: Progressive Electra Stun Resist
+class "Gargoyle Mechlab Lv5" #00FF00
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle ARM Power Upgrade 5: Progressive Shadow LEG Power
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle ARM Power Upgrade 6: Progressive Pyros LEG Speed
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle ARM Power Upgrade 7: Progressive Jaguar LEG Power
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle LEG Power Upgrade 5: Progressive Flail Armor
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle LEG Power Upgrade 6: Progressive Shredder ARM Speed
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle LEG Power Upgrade 7: Progressive Gargoyle LEG Power
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle ARM Speed Upgrade 5: Progressive Nova ARM Power
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle ARM Speed Upgrade 6: Progressive Chronos ARM Speed
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle ARM Speed Upgrade 7: Progressive Flail Stun Resist
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle LEG Speed Upgrade 5: Progressive Shredder ARM Power
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle LEG Speed Upgrade 6: Progressive Chronos ARM Power
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle LEG Speed Upgrade 7: Progressive Endurance
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle Armor Upgrade 5: Progressive Power
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle Armor Upgrade 6: Money (Small)
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle Armor Upgrade 7: Progressive Electra Stun Resist
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle Stun Resist Upgrade 5: Progressive Nova ARM Speed
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle Stun Resist Upgrade 6: Progressive Jaguar ARM Speed
+"Gargoyle Mechlab Lv5" : {method} Buy Gargoyle Stun Resist Upgrade 7: Progressive Jaguar Stun Resist
+class "Gargoyle Mechlab Lv8" #00FF00
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle ARM Power Upgrade 8: Money (Large)
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle ARM Power Upgrade 9: Progressive Chronos Armor
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle LEG Power Upgrade 8: Progressive Chronos LEG Power
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle LEG Power Upgrade 9: Progressive Gargoyle ARM Power
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle ARM Speed Upgrade 8: Progressive Electra Armor
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle ARM Speed Upgrade 9: Progressive Gargoyle Armor
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle LEG Speed Upgrade 8: Progressive Nova LEG Speed
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle LEG Speed Upgrade 9: Progressive Shadow ARM Speed
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle Armor Upgrade 8: Progressive Jaguar Armor
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle Armor Upgrade 9: Progressive Chronos ARM Speed
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle Stun Resist Upgrade 8: Progressive Agility
+"Gargoyle Mechlab Lv8" : {method} Buy Gargoyle Stun Resist Upgrade 9: Progressive Katana Armor
+class "Chronos Mechlab Lv3" #00FF00
+"Chronos Mechlab Lv3" : {method} Buy Chronos ARM Power Upgrade 3: Progressive Jaguar Enhancement
+"Chronos Mechlab Lv3" : {method} Buy Chronos ARM Power Upgrade 4: Progressive Shredder Stun Resist
+"Chronos Mechlab Lv3" : {method} Buy Chronos LEG Power Upgrade 3: Progressive Shadow Stun Resist
+"Chronos Mechlab Lv3" : {method} Buy Chronos LEG Power Upgrade 4: Progressive Shredder Stun Resist
+"Chronos Mechlab Lv3" : {method} Buy Chronos ARM Speed Upgrade 3: Money (Small)
+"Chronos Mechlab Lv3" : {method} Buy Chronos ARM Speed Upgrade 4: Progressive Shredder LEG Power
+"Chronos Mechlab Lv3" : {method} Buy Chronos LEG Speed Upgrade 3: Money (Large)
+"Chronos Mechlab Lv3" : {method} Buy Chronos LEG Speed Upgrade 4: Progressive Flail ARM Power
+"Chronos Mechlab Lv3" : {method} Buy Chronos Armor Upgrade 3: Progressive Katana LEG Power
+"Chronos Mechlab Lv3" : {method} Buy Chronos Armor Upgrade 4: Progressive Gargoyle ARM Speed
+"Chronos Mechlab Lv3" : {method} Buy Chronos Stun Resist Upgrade 3: Progressive Thorn Armor
+"Chronos Mechlab Lv3" : {method} Buy Chronos Stun Resist Upgrade 4: Progressive Pyros Stun Resist
+class "Chronos Mechlab Lv5" #00FF00
+"Chronos Mechlab Lv5" : {method} Buy Chronos ARM Power Upgrade 5: Progressive Jaguar LEG Speed
+"Chronos Mechlab Lv5" : {method} Buy Chronos ARM Power Upgrade 6: Progressive Electra ARM Power
+"Chronos Mechlab Lv5" : {method} Buy Chronos ARM Power Upgrade 7: Progressive Pyros Armor
+"Chronos Mechlab Lv5" : {method} Buy Chronos LEG Power Upgrade 5: Progressive Shredder LEG Speed
+"Chronos Mechlab Lv5" : {method} Buy Chronos LEG Power Upgrade 6: Progressive Shadow ARM Power
+"Chronos Mechlab Lv5" : {method} Buy Chronos LEG Power Upgrade 7: Progressive Katana Stun Resist
+"Chronos Mechlab Lv5" : {method} Buy Chronos ARM Speed Upgrade 5: Progressive Katana Armor
+"Chronos Mechlab Lv5" : {method} Buy Chronos ARM Speed Upgrade 6: Progressive Jaguar LEG Power
+"Chronos Mechlab Lv5" : {method} Buy Chronos ARM Speed Upgrade 7: Progressive Katana LEG Power
+"Chronos Mechlab Lv5" : {method} Buy Chronos LEG Speed Upgrade 5: Progressive Pyros ARM Speed
+"Chronos Mechlab Lv5" : {method} Buy Chronos LEG Speed Upgrade 6: Progressive Chronos LEG Speed
+"Chronos Mechlab Lv5" : {method} Buy Chronos LEG Speed Upgrade 7: Progressive Pyros ARM Speed
+"Chronos Mechlab Lv5" : {method} Buy Chronos Armor Upgrade 5: Progressive Gargoyle Armor
+"Chronos Mechlab Lv5" : {method} Buy Chronos Armor Upgrade 6: Progressive Flail ARM Power
+"Chronos Mechlab Lv5" : {method} Buy Chronos Armor Upgrade 7: Progressive Gargoyle Armor
+"Chronos Mechlab Lv5" : {method} Buy Chronos Stun Resist Upgrade 5: Progressive Shredder ARM Speed
+"Chronos Mechlab Lv5" : {method} Buy Chronos Stun Resist Upgrade 6: Progressive Thorn Stun Resist
+"Chronos Mechlab Lv5" : {method} Buy Chronos Stun Resist Upgrade 7: Progressive Nova Armor
+class "Chronos Mechlab Lv8" #00FF00
+"Chronos Mechlab Lv8" : {method} Buy Chronos ARM Power Upgrade 8: Additional HAR Color
+"Chronos Mechlab Lv8" : {method} Buy Chronos ARM Power Upgrade 9: Progressive Nova ARM Speed
+"Chronos Mechlab Lv8" : {method} Buy Chronos LEG Power Upgrade 8: Progressive Agility
+"Chronos Mechlab Lv8" : {method} Buy Chronos LEG Power Upgrade 9: Progressive Flail Enhancement
+"Chronos Mechlab Lv8" : {method} Buy Chronos ARM Speed Upgrade 8: Progressive Power
+"Chronos Mechlab Lv8" : {method} Buy Chronos ARM Speed Upgrade 9: Progressive Flail ARM Speed
+"Chronos Mechlab Lv8" : {method} Buy Chronos LEG Speed Upgrade 8: Progressive Agility
+"Chronos Mechlab Lv8" : {method} Buy Chronos LEG Speed Upgrade 9: Progressive Electra LEG Power
+"Chronos Mechlab Lv8" : {method} Buy Chronos Armor Upgrade 8: Progressive Flail Armor
+"Chronos Mechlab Lv8" : {method} Buy Chronos Armor Upgrade 9: Progressive Chronos LEG Speed
+"Chronos Mechlab Lv8" : {method} Buy Chronos Stun Resist Upgrade 8: Progressive Flail Stun Resist
+"Chronos Mechlab Lv8" : {method} Buy Chronos Stun Resist Upgrade 9: Progressive Jaguar Stun Resist
+class "Nova Mechlab Lv3" #00FF00
+"Nova Mechlab Lv3" : {method} Buy Nova ARM Power Upgrade 3: Progressive Nova Stun Resist
+"Nova Mechlab Lv3" : {method} Buy Nova ARM Power Upgrade 4: Progressive Chronos ARM Power
+"Nova Mechlab Lv3" : {method} Buy Nova LEG Power Upgrade 3: Progressive Flail LEG Speed
+"Nova Mechlab Lv3" : {method} Buy Nova LEG Power Upgrade 4: Progressive Electra Armor
+"Nova Mechlab Lv3" : {method} Buy Nova ARM Speed Upgrade 3: Progressive Gargoyle LEG Power
+"Nova Mechlab Lv3" : {method} Buy Nova ARM Speed Upgrade 4: Progressive Shredder ARM Speed
+"Nova Mechlab Lv3" : {method} Buy Nova LEG Speed Upgrade 3: Progressive Thorn LEG Speed
+"Nova Mechlab Lv3" : {method} Buy Nova LEG Speed Upgrade 4: Progressive Shredder LEG Power
+"Nova Mechlab Lv3" : {method} Buy Nova Armor Upgrade 3: Progressive Pyros LEG Speed
+"Nova Mechlab Lv3" : {method} Buy Nova Armor Upgrade 4: Progressive Jaguar ARM Power
+"Nova Mechlab Lv3" : {method} Buy Nova Stun Resist Upgrade 3: Progressive Nova Stun Resist
+"Nova Mechlab Lv3" : {method} Buy Nova Stun Resist Upgrade 4: Progressive Chronos ARM Speed
+class "Nova Mechlab Lv5" #00FF00
+"Nova Mechlab Lv5" : {method} Buy Nova ARM Power Upgrade 5: Progressive Gargoyle LEG Power
+"Nova Mechlab Lv5" : {method} Buy Nova ARM Power Upgrade 6: Additional HAR Color
+"Nova Mechlab Lv5" : {method} Buy Nova ARM Power Upgrade 7: Progressive Nova ARM Power
+"Nova Mechlab Lv5" : {method} Buy Nova LEG Power Upgrade 5: Progressive Gargoyle ARM Speed
+"Nova Mechlab Lv5" : {method} Buy Nova LEG Power Upgrade 6: Progressive Thorn Stun Resist
+"Nova Mechlab Lv5" : {method} Buy Nova LEG Power Upgrade 7: Progressive Chronos ARM Power
+"Nova Mechlab Lv5" : {method} Buy Nova ARM Speed Upgrade 5: Progressive Pyros Armor
+"Nova Mechlab Lv5" : {method} Buy Nova ARM Speed Upgrade 6: Progressive Nova LEG Power
+"Nova Mechlab Lv5" : {method} Buy Nova ARM Speed Upgrade 7: Progressive Shadow LEG Power
+"Nova Mechlab Lv5" : {method} Buy Nova LEG Speed Upgrade 5: Progressive Endurance
+"Nova Mechlab Lv5" : {method} Buy Nova LEG Speed Upgrade 6: Progressive Gargoyle ARM Speed
+"Nova Mechlab Lv5" : {method} Buy Nova LEG Speed Upgrade 7: Progressive Shadow ARM Power
+"Nova Mechlab Lv5" : {method} Buy Nova Armor Upgrade 5: Progressive Flail LEG Power
+"Nova Mechlab Lv5" : {method} Buy Nova Armor Upgrade 6: Progressive Nova LEG Power
+"Nova Mechlab Lv5" : {method} Buy Nova Armor Upgrade 7: Progressive Shadow Armor
+"Nova Mechlab Lv5" : {method} Buy Nova Stun Resist Upgrade 5: Progressive Pyros LEG Power
+"Nova Mechlab Lv5" : {method} Buy Nova Stun Resist Upgrade 6: Progressive Gargoyle Armor
+"Nova Mechlab Lv5" : {method} Buy Nova Stun Resist Upgrade 7: Progressive Pyros ARM Power
+class "Nova Mechlab Lv8" #00FF00
+"Nova Mechlab Lv8" : {method} Buy Nova ARM Power Upgrade 8: Progressive Chronos ARM Speed
+"Nova Mechlab Lv8" : {method} Buy Nova ARM Power Upgrade 9: Progressive Jaguar LEG Speed
+"Nova Mechlab Lv8" : {method} Buy Nova LEG Power Upgrade 8: Progressive Flail ARM Power
+"Nova Mechlab Lv8" : {method} Buy Nova LEG Power Upgrade 9: Progressive Pyros LEG Power
+"Nova Mechlab Lv8" : {method} Buy Nova ARM Speed Upgrade 8: Progressive Shredder Armor
+"Nova Mechlab Lv8" : {method} Buy Nova ARM Speed Upgrade 9: Progressive Jaguar Enhancement
+"Nova Mechlab Lv8" : {method} Buy Nova LEG Speed Upgrade 8: Progressive Shadow Armor
+"Nova Mechlab Lv8" : {method} Buy Nova LEG Speed Upgrade 9: Progressive Flail Stun Resist
+"Nova Mechlab Lv8" : {method} Buy Nova Armor Upgrade 8: Progressive Gargoyle Armor
+"Nova Mechlab Lv8" : {method} Buy Nova Armor Upgrade 9: Progressive Katana Stun Resist
+"Nova Mechlab Lv8" : {method} Buy Nova Stun Resist Upgrade 8: Progressive Shadow Stun Resist
+"Nova Mechlab Lv8" : {method} Buy Nova Stun Resist Upgrade 9: Progressive Pyros Stun Resist
+class "Pilot Training Lv7" #00FF00
+"Pilot Training Lv7" : {method} Train Power Level 7: Progressive Thorn ARM Power
+"Pilot Training Lv7" : {method} Train Power Level 8: Progressive Jaguar Stun Resist
+"Pilot Training Lv7" : {method} Train Power Level 9: Progressive Gargoyle LEG Speed
+"Pilot Training Lv7" : {method} Train Power Level 10: Money (Small)
+"Pilot Training Lv7" : {method} Train Power Level 11: Progressive Agility
+"Pilot Training Lv7" : {method} Train Power Level 12: Progressive Gargoyle LEG Power
+"Pilot Training Lv7" : {method} Train Agility Level 7: Progressive Pyros Armor
+"Pilot Training Lv7" : {method} Train Agility Level 8: Progressive Electra Stun Resist
+"Pilot Training Lv7" : {method} Train Agility Level 9: Progressive Chronos Armor
+"Pilot Training Lv7" : {method} Train Agility Level 10: Progressive Gargoyle Armor
+"Pilot Training Lv7" : {method} Train Agility Level 11: Progressive Shadow Armor
+"Pilot Training Lv7" : {method} Train Agility Level 12: Progressive Shadow Armor
+"Pilot Training Lv7" : {method} Train Endurance Level 7: Progressive Shadow LEG Speed
+"Pilot Training Lv7" : {method} Train Endurance Level 8: Progressive Pyros Stun Resist
+"Pilot Training Lv7" : {method} Train Endurance Level 9: Progressive Endurance
+"Pilot Training Lv7" : {method} Train Endurance Level 10: Progressive Electra LEG Power
+"Pilot Training Lv7" : {method} Train Endurance Level 11: Progressive Katana Armor
+"Pilot Training Lv7" : {method} Train Endurance Level 12: Progressive Chronos LEG Power
+class "Pilot Training Lv13" #00FF00
+"Pilot Training Lv13" : {method} Train Power Level 13: Progressive Gargoyle Stun Resist
+"Pilot Training Lv13" : {method} Train Power Level 14: Progressive Thorn LEG Power
+"Pilot Training Lv13" : {method} Train Power Level 15: Progressive Jaguar Armor
+"Pilot Training Lv13" : {method} Train Power Level 16: Progressive Shadow ARM Power
+"Pilot Training Lv13" : {method} Train Power Level 17: Progressive Jaguar LEG Power
+"Pilot Training Lv13" : {method} Train Power Level 18: Progressive Nova LEG Power
+"Pilot Training Lv13" : {method} Train Agility Level 13: **Electra Unlock**
+"Pilot Training Lv13" : {method} Train Agility Level 14: Progressive Agility
+"Pilot Training Lv13" : {method} Train Agility Level 15: Progressive Pyros Armor
+"Pilot Training Lv13" : {method} Train Agility Level 16: **Shredder Unlock**
+"Pilot Training Lv13" : {method} Train Agility Level 17: Progressive Flail ARM Speed
+"Pilot Training Lv13" : {method} Train Agility Level 18: Progressive Chronos LEG Speed
+"Pilot Training Lv13" : {method} Train Endurance Level 13: Progressive Flail ARM Power
+"Pilot Training Lv13" : {method} Train Endurance Level 14: Progressive Pyros Stun Resist
+"Pilot Training Lv13" : {method} Train Endurance Level 15: Progressive Shadow LEG Power
+"Pilot Training Lv13" : {method} Train Endurance Level 16: Progressive Gargoyle LEG Power
+"Pilot Training Lv13" : {method} Train Endurance Level 17: Progressive Thorn ARM Speed
+"Pilot Training Lv13" : {method} Train Endurance Level 18: Progressive Nova Armor
+class "Pilot Training Lv19" #00FF00
+"Pilot Training Lv19" : {method} Train Power Level 19: Progressive Gargoyle LEG Speed
+"Pilot Training Lv19" : {method} Train Power Level 20: Progressive Thorn ARM Power
+"Pilot Training Lv19" : {method} Train Power Level 21: Progressive Power
+"Pilot Training Lv19" : {method} Train Power Level 22: Progressive Pyros LEG Power
+"Pilot Training Lv19" : {method} Train Power Level 23: Progressive Thorn ARM Power
+"Pilot Training Lv19" : {method} Train Power Level 24: Progressive Flail LEG Power
+"Pilot Training Lv19" : {method} Train Power Level 25: Progressive Chronos LEG Power
+"Pilot Training Lv19" : {method} Train Agility Level 19: Progressive Shadow ARM Power
+"Pilot Training Lv19" : {method} Train Agility Level 20: Progressive Katana Armor
+"Pilot Training Lv19" : {method} Train Agility Level 21: **Shadow Unlock**
+"Pilot Training Lv19" : {method} Train Agility Level 22: Progressive Gargoyle LEG Power
+"Pilot Training Lv19" : {method} Train Agility Level 23: Progressive Jaguar ARM Speed
+"Pilot Training Lv19" : {method} Train Agility Level 24: Progressive Electra ARM Power
+"Pilot Training Lv19" : {method} Train Agility Level 25: Progressive Shadow LEG Power
+"Pilot Training Lv19" : {method} Train Endurance Level 19: Progressive Pyros LEG Power
+"Pilot Training Lv19" : {method} Train Endurance Level 20: Progressive Shredder ARM Speed
+"Pilot Training Lv19" : {method} Train Endurance Level 21: Progressive Shredder ARM Power
+"Pilot Training Lv19" : {method} Train Endurance Level 22: Progressive Gargoyle Stun Resist
+"Pilot Training Lv19" : {method} Train Endurance Level 23: **Flail Unlock**
+"Pilot Training Lv19" : {method} Train Endurance Level 24: Progressive Endurance
+"Pilot Training Lv19" : {method} Train Endurance Level 25: Progressive Gargoyle Stun Resist
 @enduml
