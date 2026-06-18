@@ -1,2 +1,8 @@
 build/
+builds/
 bin/
+omf/build/
+omf/build2/
+omf/build-windows/
+omf/build-langtools/
+
