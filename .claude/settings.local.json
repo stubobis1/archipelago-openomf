@@ -5,7 +5,9 @@
       "WebFetch(domain:raw.githubusercontent.com)",
       "Bash(python3 Generate.py --help)",
       "Bash(grep -E \"\\\\.\\(c|h|cpp\\)$\")",
-      "Bash(./build.sh)"
+      "Bash(./build.sh)",
+      "Bash(cmake -S . -B build-noap -DUSE_ARCHIPELAGO=OFF -DCMAKE_BUILD_TYPE=Debug)",
+      "Bash(cmake -S . -B build-noap -DUSE_ARCHIPELAGO=OFF -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/run/host/root/usr -DXMP_LIBRARY=/run/host/root/usr/lib/libxmp.so -DXMP_INCLUDE_DIR=/run/host/root/usr/include)"
     ]
   }
 }
