@@ -13,6 +13,9 @@ echo "=== Building APWorld ==="
 echo "=== Building OpenOMF ==="
 "$REPO/omf/build.sh"
 
+echo "=== Building OpenOMF (Windows) ==="
+"$REPO/build-windows.sh"
+
 echo "=== Assembling $OUT ==="
 cp "$REPO/omf/build/openomf"    "$OUT/"
 cp -rL "$REPO/omf/build/lib"       "$OUT/"
@@ -32,3 +35,18 @@ EOF
 chmod +x "$OUT/run.sh"
 
 echo "Done. Run with: $OUT/run.sh"
+
+echo "=== Packaging ==="
+VERSION="$(git -C "$REPO" describe --tags --always 2>/dev/null || echo "dev")"
+BUILDS="$REPO/builds"
+mkdir -p "$BUILDS"
+
+# Linux zip
+(cd "$OUT" && zip -r "$BUILDS/openomf-linux.$VERSION.zip" .)
+
+# Windows zip
+WIN="$REPO/omf/build-windows"
+(cd "$WIN" && zip -r "$BUILDS/openomf-windows.$VERSION.zip" .)
+
+echo "Packages:"
+ls -lh "$BUILDS/openomf-"*".$VERSION.zip"

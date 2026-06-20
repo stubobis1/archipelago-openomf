@@ -4,33 +4,6 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 AP_DIR="$SCRIPT_DIR/archipelago"
 
-# Generate SVGs from PlantUML files via kroki.io (vector = crisp at any size)
-for puml in "$SCRIPT_DIR"/*.puml; do
-    [ -f "$puml" ] || continue
-    svg="${puml%.puml}.svg"
-    # Inject layout hints: wrap long strings, force each HAR onto its own row
-    src=$(python3 - "$puml" <<'PYEOF'
-import sys
-hars = ['Jaguar','Shadow','Thorn','Pyros','Electra','Katana','Shredder','Flail','Gargoyle','Chronos','Nova']
-with open(sys.argv[1]) as f:
-    content = f.read()
-content = content.replace('@startuml\n', '@startuml\nskinparam wrapWidth 200\n', 1)
-hidden = '\n'.join(f'"{h} Mechlab" -[hidden]down-> "{hars[i+1]} Mechlab"' for i, h in enumerate(hars[:-1]))
-content = content.replace('@enduml', hidden + '\n@enduml', 1)
-print(content, end='')
-PYEOF
-)
-    http_code=$(curl -s -o "$svg" -w "%{http_code}" \
-        -X POST https://kroki.io/plantuml/svg \
-        -H "Content-Type: application/json" \
-        --data-binary "{\"diagram_source\": $(python3 -c "import json,sys; print(json.dumps(sys.stdin.read()))" <<< "$src")}")
-    if [ "$http_code" = "200" ]; then
-        echo "Generated $(basename "$svg")"
-    else
-        echo "WARNING: kroki.io returned $http_code for $(basename "$puml")" >&2
-    fi
-done
-
 if [ -f "$SCRIPT_DIR/.python-version" ]; then
     PY_VER="$(cat "$SCRIPT_DIR/.python-version")"
     PYENV_PY="$HOME/.pyenv/versions/$PY_VER/bin/python3"
@@ -47,25 +20,48 @@ OUT_DIR="/tmp/omf_output"
 
 mkdir -p "$PLAYERS_DIR" "$OUT_DIR"
 
-# 1. Generate template YAML
-cat > "$PLAYERS_DIR/${SLOT}.yaml" << YAML
-name: ${SLOT}
-game: "One Must Fall: 2097"
-
-"One Must Fall: 2097":
-  goal_tournament: world_championship
-  starting_har: random_selection
-  har_stat_max: 9
-  pilot_stat_max: 25
-  include_buy_locations: true
-  buy_cost_factor: 100
-YAML
+# 1. Generate player YAML from AP Launcher defaults, substituting slot name
+TMPL_DIR=$(mktemp -d)
+PYTHONPATH="$AP_DIR" "$PYTHON3" - "$TMPL_DIR" <<'PYEOF'
+import sys
+from Options import generate_yaml_templates
+generate_yaml_templates(sys.argv[1], False)
+PYEOF
+sed "s/^name:.*/name: ${SLOT}/" "$TMPL_DIR/One Must Fall 2097.yaml" > "$PLAYERS_DIR/${SLOT}.yaml"
+rm -rf "$TMPL_DIR"
 
 # 2. Generate multiworld (remove stale output first)
-rm -f "$OUT_DIR"/AP_*.zip
-PYTHONPATH="$AP_DIR" "$PYTHON3" "$AP_DIR/Generate.py" \
+rm -f "$OUT_DIR"/AP_*.zip "$OUT_DIR"/*.puml "$OUT_DIR"/*.svg
+OMF_PUML_DIR="$OUT_DIR" PYTHONPATH="$AP_DIR" "$PYTHON3" "$AP_DIR/Generate.py" \
     --player_files_path "$PLAYERS_DIR" \
     --outputpath "$OUT_DIR"
+
+# Generate SVGs from any .puml files written by generate_output (debug mode)
+for puml in "$OUT_DIR"/*.puml; do
+    [ -f "$puml" ] || continue
+    svg="${puml%.puml}.svg"
+    src=$(python3 - "$puml" <<'PYEOF'
+import sys
+hars = ['Jaguar','Shadow','Thorn','Pyros','Electra','Katana','Shredder','Flail','Gargoyle','Chronos','Nova']
+with open(sys.argv[1]) as f:
+    content = f.read()
+content = content.replace('@startuml\n', '@startuml\nskinparam wrapWidth 200\n', 1)
+hidden = '\n'.join(f'"{h} Mechlab" -[hidden]down-> "{hars[i+1]} Mechlab"' for i, h in enumerate(hars[:-1]))
+content = content.replace('@enduml', hidden + '\n@enduml', 1)
+print(content, end='')
+PYEOF
+)
+    http_code=$(curl -s -o "$svg" -w "%{http_code}" \
+        -X POST https://kroki.io/plantuml/svg \
+        -H "Content-Type: application/json" \
+        --data-binary "{\"diagram_source\": $(python3 -c "import json,sys; print(json.dumps(sys.stdin.read()))" <<< "$src")}")
+    if [ "$http_code" = "200" ]; then
+        echo "Generated $svg"
+    else
+        echo "WARNING: kroki.io returned $http_code for $(basename "$puml")" >&2
+    fi
+done
+echo "SVGs in $OUT_DIR"
 
 # Find the output zip
 MULTIDATA=$(find "$OUT_DIR" -name "AP_*.zip" | sort | tail -1)
