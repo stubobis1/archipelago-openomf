@@ -11,7 +11,7 @@ echo "=== Building APWorld ==="
 "$REPO/build_ap.sh"
 
 echo "=== Building OpenOMF ==="
-"$REPO/omf/build.sh"
+"$REPO/build.sh"
 
 echo "=== Building OpenOMF (Windows) ==="
 "$REPO/build-windows.sh"
